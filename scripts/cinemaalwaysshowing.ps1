@@ -7,6 +7,6 @@ write-host "##teamcity[message text='junior']"
 
 #start-process -filepath 'cineparser.exe' -ArgumentList "-mode cinemaalwaysshowing" -Credential $Credential
 
-start-process -filepath 'cineparser.exe' -ArgumentList "-mode cinemaalwaysshowing  -limitepageindex 5"
+start-process -filepath 'cineparser.exe' -ArgumentList "-mode cinemaalwaysshowing -limitepageindex 5"
 
 write-host "##teamcity[message text='kibassa']"
