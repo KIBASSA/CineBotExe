@@ -7,6 +7,6 @@ write-host "##teamcity[message text='junior']"
 
 #start-process -filepath 'cineparser.exe' -ArgumentList "-mode cinemaalwaysshowing" -Credential $Credential
 
-start-process -filepath 'BatchConversation.exe' -ArgumentList "-mode reminder"
+start-process -filepath 'BatchConversation.exe' -ArgumentList "-mode movies-to-see-in-theater"
 
 write-host "##teamcity[message text='kibassa']"
