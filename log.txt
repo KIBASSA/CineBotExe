@@ -1,9 +1,151 @@
-2017-05-14 08:20:51.2290 ##teamcity[message text='mode=cinemareleasesoftheweek']
-2017-05-14 08:21:01.1421 **** page 0
-2017-05-14 08:21:07.3823  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=208314.html
-2017-05-14 08:21:08.2456  launch constructor builds
-2017-05-14 08:21:12.5425 Build award page
-2017-05-14 08:21:12.5669 Not palmares page...
-2017-05-14 08:21:12.5669 Build seance page
-2017-05-14 08:21:22.1499 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-05-14 08:21:22.1499 GetRooms by url used
+2017-05-20 22:37:29.6649 ##teamcity[message text='mode=cinemareleasesoftheweek']
+2017-05-20 22:37:41.2606 **** page 0
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=178855.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246082.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245983.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248631.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=250823.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=252102.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=249801.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=6425.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255222.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255286.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245426.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=1794.html
+2017-05-20 22:37:45.0321  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=253755.html
+2017-05-20 22:37:45.2918 End process
+2017-05-20 22:38:34.8846 ##teamcity[message text='mode=cinemareleasesoftheweek']
+2017-05-20 22:38:41.5017 **** page 0
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=178855.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246082.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245983.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248631.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=250823.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=252102.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=249801.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=6425.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255222.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255286.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245426.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=1794.html
+2017-05-20 22:38:43.7273  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=253755.html
+2017-05-20 22:38:43.7840 End process
+2017-05-20 22:39:38.0389 ##teamcity[message text='mode=cinemaalwaysshowing']
+2017-05-20 22:39:44.7831 **** page 0
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=226995.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=208314.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=178855.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245285.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=229678.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245793.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=207486.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246587.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248682.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=221541.html
+2017-05-20 22:39:47.2899  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=241160.html
+2017-05-20 22:40:46.0252  launch constructor builds
+2017-05-20 22:40:49.7879 Build award page
+2017-05-20 22:41:26.9783 
+ Set Name
+2017-05-20 22:41:26.9783 
+ Set Category
+2017-05-20 22:42:48.7098 ##teamcity[message text='mode=cinemaalwaysshowing']
+2017-05-20 22:42:57.1806 **** page 0
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=226995.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=208314.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=178855.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245285.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=229678.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245793.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=207486.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246587.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248682.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=221541.html
+2017-05-20 22:42:59.8016  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=241160.html
+2017-05-20 22:43:04.2430  launch constructor builds
+2017-05-20 22:43:07.0790 Build award page
+2017-05-20 22:43:24.0536 
+ Set Name
+2017-05-20 22:43:24.0536 
+ Set Category
+2017-05-20 22:43:38.2811 
+ Set Nationality
+2017-05-20 22:43:38.2811 
+ Set Press Note
+2017-05-20 22:43:38.2811 
+Value to convert                 4.0 
+2017-05-20 22:43:38.2811 
+ Set Specatator Note
+2017-05-20 22:43:38.2811 
+Value to convert                 4.0 
+2017-05-20 22:43:38.2811 
+ Set Synopsis
+2017-05-20 22:43:38.2967 setup photo done
+2017-05-20 22:43:38.2967 
+set release date
+2017-05-20 22:43:38.5995 
+set seance number
+2017-05-20 22:43:38.5995 Build video page 
+2017-05-20 22:43:38.5995 Build casting page 
+2017-05-20 22:43:42.0711 
+Build writers
+2017-05-20 22:43:42.0711 
+Build actors
+2017-05-20 22:43:42.0907 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=208088.html
+2017-05-20 22:43:42.3641 
+person Daniel Kaluuya already exist. skip next
+2017-05-20 22:43:42.3641 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=502680.html
+2017-05-20 22:43:42.4666 
+person Allison Williams already exist. skip next
+2017-05-20 22:43:42.4666 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=18732.html
+2017-05-20 22:43:42.5759 
+person Catherine Keener already exist. skip next
+2017-05-20 22:43:42.5759 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=26993.html
+2017-05-20 22:43:42.6776 
+person Bradley Whitford already exist. skip next
+2017-05-20 22:43:42.6776 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=455309.html
+2017-05-20 22:43:42.7684 
+person Caleb Landry Jones already exist. skip next
+2017-05-20 22:43:42.7684 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=708953.html
+2017-05-20 22:43:42.8602 
+person Marcus Henderson already exist. skip next
+2017-05-20 22:43:42.8602 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=747766.html
+2017-05-20 22:43:42.9491 
+person Betty Gabriel already exist. skip next
+2017-05-20 22:43:42.9491 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=644408.html
+2017-05-20 22:43:43.0516 
+person Lakeith Stanfield already exist. skip next
+2017-05-20 22:43:43.0516 
+Build producers
+2017-05-20 22:43:43.0516 
+create new person by url /personne/fichepersonne_gen_cpersonne=91409.html
+2017-05-20 22:43:43.0516 
+create new person by url /personne/fichepersonne_gen_cpersonne=411259.html
+2017-05-20 22:43:43.0516 
+create new person by url /personne/fichepersonne_gen_cpersonne=70223.html
+2017-05-20 22:43:43.0516 
+create new person by url /personne/fichepersonne_gen_cpersonne=491330.html
+2017-05-20 22:43:43.0516 
+Build directors
+2017-05-20 22:43:43.0516 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=491330.html
+2017-05-20 22:43:43.1668 
+person Jordan Peele already exist. skip next
+2017-05-20 22:43:43.1668 Build critics page 
+2017-05-20 22:43:46.0281 persist in database
+2017-05-20 22:43:46.1463  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248226.html
+2017-05-20 22:43:46.1463  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=233405.html
+2017-05-20 22:43:46.1463  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246082.html
+2017-05-20 22:43:46.1463  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=244761.html
+2017-05-20 22:43:46.1990 End process
+2017-05-20 22:46:58.7313 ##teamcity[message text='mode=cinemaalwaysshowing']
+2017-05-20 22:47:10.6239 End process
+2017-05-20 22:47:43.9198 ##teamcity[message text='mode=cinemaalwaysshowing']
