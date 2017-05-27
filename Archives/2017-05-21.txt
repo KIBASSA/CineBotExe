@@ -1,0 +1,2055 @@
+2017-05-21 00:00:58.0740 ##teamcity[message text='mode=cinemareleasesoftheweek']
+2017-05-21 00:01:34.5252 **** page 0
+2017-05-21 00:01:38.2713  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=178855.html
+2017-05-21 00:01:40.4530  launch constructor builds
+2017-05-21 00:01:48.3934 Build award page
+2017-05-21 00:01:48.4773 Not palmares page...
+2017-05-21 00:01:48.4773 Build seance page
+2017-05-21 00:02:09.0536 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:02:09.0536 GetRooms by url used
+2017-05-21 00:02:23.2420 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:02:23.2420 GetRooms by url used
+2017-05-21 00:02:44.5828 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:02:44.5828 GetRooms by url used
+2017-05-21 00:02:54.2127 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:02:54.2127 GetRooms by url used
+2017-05-21 00:03:05.6179 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:05.6179 GetRooms by url used
+2017-05-21 00:03:13.8797 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:13.8797 GetRooms by url used
+2017-05-21 00:03:21.6931 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:21.6931 GetRooms by url used
+2017-05-21 00:03:29.7840 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:29.7840 GetRooms by url used
+2017-05-21 00:03:40.1824 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:40.1824 GetRooms by url used
+2017-05-21 00:03:47.6082 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:47.6082 GetRooms by url used
+2017-05-21 00:03:53.4578 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:03:53.4578 GetRooms by url used
+2017-05-21 00:04:00.7147 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:00.7147 GetRooms by url used
+2017-05-21 00:04:06.5262 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:06.5262 GetRooms by url used
+2017-05-21 00:04:16.1629 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:16.1629 GetRooms by url used
+2017-05-21 00:04:26.1746 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:26.1746 GetRooms by url used
+2017-05-21 00:04:34.0672 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:34.0672 GetRooms by url used
+2017-05-21 00:04:42.5828 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:42.5828 GetRooms by url used
+2017-05-21 00:04:59.2118 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:04:59.2118 GetRooms by url used
+2017-05-21 00:05:08.0428 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:08.0428 GetRooms by url used
+2017-05-21 00:05:18.2850 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:18.2850 GetRooms by url used
+2017-05-21 00:05:27.0867 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:27.0867 GetRooms by url used
+2017-05-21 00:05:42.0936 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:42.0936 GetRooms by url used
+2017-05-21 00:05:47.8807 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:47.8807 GetRooms by url used
+2017-05-21 00:05:56.1570 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:05:56.1570 GetRooms by url used
+2017-05-21 00:06:04.9109 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:04.9109 GetRooms by url used
+2017-05-21 00:06:12.6004 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:12.6004 GetRooms by url used
+2017-05-21 00:06:25.0945 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:25.0945 GetRooms by url used
+2017-05-21 00:06:32.2166 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:32.2166 GetRooms by url used
+2017-05-21 00:06:41.0409 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:41.0409 GetRooms by url used
+2017-05-21 00:06:48.1150 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:48.1150 GetRooms by url used
+2017-05-21 00:06:56.4754 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:06:56.4754 GetRooms by url used
+2017-05-21 00:07:04.2811 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:04.2811 GetRooms by url used
+2017-05-21 00:07:11.1708 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:11.1708 GetRooms by url used
+2017-05-21 00:07:18.0496 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:18.0496 GetRooms by url used
+2017-05-21 00:07:25.2791 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:25.2791 GetRooms by url used
+2017-05-21 00:07:32.7117 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:32.7117 GetRooms by url used
+2017-05-21 00:07:40.9559 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:40.9559 GetRooms by url used
+2017-05-21 00:07:47.1572 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:47.1572 GetRooms by url used
+2017-05-21 00:07:54.7869 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:07:54.7869 GetRooms by url used
+2017-05-21 00:08:01.0575 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:08:01.0575 GetRooms by url used
+2017-05-21 00:08:09.9490 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:08:09.9490 GetRooms by url used
+2017-05-21 00:08:10.2098 Build photo page 
+2017-05-21 00:08:34.3270 Build homepage 
+2017-05-21 00:08:40.5721 
+ Set Name
+2017-05-21 00:08:40.6747 
+ Set Category
+2017-05-21 00:08:40.6941 
+ Set Nationality
+2017-05-21 00:08:40.6941 
+ Set Press Note
+2017-05-21 00:08:40.6941 
+Value to convert                 2.7 
+2017-05-21 00:08:40.6941 
+ Set Specatator Note
+2017-05-21 00:08:40.6941 
+Value to convert                 3.8 
+2017-05-21 00:08:40.6941 
+ Set Synopsis
+2017-05-21 00:08:40.7097 setup photo done
+2017-05-21 00:08:40.7097 
+set release date
+2017-05-21 00:08:40.8133 
+set seance number
+2017-05-21 00:08:40.8133 Build video page 
+2017-05-21 00:08:40.8133 Build casting page 
+2017-05-21 00:08:44.4071 
+Build writers
+2017-05-21 00:08:44.4071 
+Build actors
+2017-05-21 00:08:44.4315 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=74172.html
+2017-05-21 00:08:44.8787 
+person Charlie Hunnam already exist. skip next
+2017-05-21 00:08:44.8787 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=202960.html
+2017-05-21 00:08:44.9852 
+person Astrid Bergès-Frisbey already exist. skip next
+2017-05-21 00:08:44.9852 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=17802.html
+2017-05-21 00:08:45.0995 
+person Jude Law already exist. skip next
+2017-05-21 00:08:45.0995 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=25754.html
+2017-05-21 00:08:45.2245 
+person Djimon Hounsou already exist. skip next
+2017-05-21 00:08:45.2245 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=61734.html
+2017-05-21 00:08:45.3504 
+person Eric Bana already exist. skip next
+2017-05-21 00:08:45.3504 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=24193.html
+2017-05-21 00:08:45.4705 
+person Aidan Gillen already exist. skip next
+2017-05-21 00:08:45.4705 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=234379.html
+2017-05-21 00:08:45.5858 
+person Katie McGrath already exist. skip next
+2017-05-21 00:08:45.5858 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=519638.html
+2017-05-21 00:08:45.6834 
+person Freddie Fox already exist. skip next
+2017-05-21 00:08:45.6834 
+Build producers
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=40847.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=47018.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=205088.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=134164.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=28584.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=81220.html
+2017-05-21 00:08:45.6834 
+create new person by url /personne/fichepersonne_gen_cpersonne=725997.html
+2017-05-21 00:08:45.6834 
+Build directors
+2017-05-21 00:08:45.6893 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=28584.html
+2017-05-21 00:08:45.7957 
+person Guy Ritchie already exist. skip next
+2017-05-21 00:08:45.7957 Build critics page 
+2017-05-21 00:08:50.0808 persist in database
+2017-05-21 00:08:51.3876  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=246082.html
+2017-05-21 00:08:51.8591  launch constructor builds
+2017-05-21 00:08:57.0682 Build award page
+2017-05-21 00:09:00.7400 Build seance page
+2017-05-21 00:09:11.5779 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:11.5779 GetRooms by url used
+2017-05-21 00:09:19.6287 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:19.6287 GetRooms by url used
+2017-05-21 00:09:28.1199 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:28.1199 GetRooms by url used
+2017-05-21 00:09:34.5624 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:34.5624 GetRooms by url used
+2017-05-21 00:09:40.7127 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:40.7127 GetRooms by url used
+2017-05-21 00:09:46.6687 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:46.6687 GetRooms by url used
+2017-05-21 00:09:52.3260 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:09:52.3260 GetRooms by url used
+2017-05-21 00:10:02.1766 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:02.1766 GetRooms by url used
+2017-05-21 00:10:10.6200 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:10.6200 GetRooms by url used
+2017-05-21 00:10:17.7059 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:17.7059 GetRooms by url used
+2017-05-21 00:10:25.1355 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:25.1355 GetRooms by url used
+2017-05-21 00:10:35.7909 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:35.7909 GetRooms by url used
+2017-05-21 00:10:43.1902 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:43.1902 GetRooms by url used
+2017-05-21 00:10:50.2879 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:50.2879 GetRooms by url used
+2017-05-21 00:10:56.6756 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:10:56.6756 GetRooms by url used
+2017-05-21 00:11:06.1893 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:06.1893 GetRooms by url used
+2017-05-21 00:11:13.0633 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:13.0633 GetRooms by url used
+2017-05-21 00:11:18.2361 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:18.2361 GetRooms by url used
+2017-05-21 00:11:23.8660 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:23.8660 GetRooms by url used
+2017-05-21 00:11:30.0799 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:30.0799 GetRooms by url used
+2017-05-21 00:11:37.4187 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:37.4187 GetRooms by url used
+2017-05-21 00:11:45.9187 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:45.9187 GetRooms by url used
+2017-05-21 00:11:51.3826 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:11:51.3826 GetRooms by url used
+2017-05-21 00:12:03.4316 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:03.4316 GetRooms by url used
+2017-05-21 00:12:10.3807 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:10.3807 GetRooms by url used
+2017-05-21 00:12:17.0164 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:17.0164 GetRooms by url used
+2017-05-21 00:12:23.5262 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:23.5262 GetRooms by url used
+2017-05-21 00:12:31.1004 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:31.1004 GetRooms by url used
+2017-05-21 00:12:39.2469 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:39.2469 GetRooms by url used
+2017-05-21 00:12:45.5057 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:45.5057 GetRooms by url used
+2017-05-21 00:12:51.5946 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:51.5946 GetRooms by url used
+2017-05-21 00:12:59.1024 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:12:59.1024 GetRooms by url used
+2017-05-21 00:13:07.9520 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:07.9520 GetRooms by url used
+2017-05-21 00:13:12.1688 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:12.1688 GetRooms by url used
+2017-05-21 00:13:17.2117 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:17.2117 GetRooms by url used
+2017-05-21 00:13:22.3865 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:22.3865 GetRooms by url used
+2017-05-21 00:13:29.6688 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:29.6688 GetRooms by url used
+2017-05-21 00:13:34.3055 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:34.3055 GetRooms by url used
+2017-05-21 00:13:40.0125 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:40.0125 GetRooms by url used
+2017-05-21 00:13:44.8592 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:44.8592 GetRooms by url used
+2017-05-21 00:13:49.9236 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:13:49.9236 GetRooms by url used
+2017-05-21 00:13:49.9735 Build photo page 
+2017-05-21 00:14:01.2488 Build homepage 
+2017-05-21 00:14:03.6385 
+ Set Name
+2017-05-21 00:14:03.6424 
+ Set Category
+2017-05-21 00:14:03.6424 
+ Set Nationality
+2017-05-21 00:14:03.6424 
+ Set Press Note
+2017-05-21 00:14:03.6424 
+Value to convert                 4.0 
+2017-05-21 00:14:03.6424 
+ Set Specatator Note
+2017-05-21 00:14:03.6424 
+Value to convert                 2.3 
+2017-05-21 00:14:03.6424 
+ Set Synopsis
+2017-05-21 00:14:03.6580 setup photo done
+2017-05-21 00:14:03.6580 
+set release date
+2017-05-21 00:14:04.0262 
+set seance number
+2017-05-21 00:14:04.0262 Build video page 
+2017-05-21 00:14:04.0262 Build casting page 
+2017-05-21 00:14:09.2335 
+Build writers
+2017-05-21 00:14:09.2335 
+Build actors
+2017-05-21 00:14:09.2342 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=16966.html
+2017-05-21 00:14:09.4471 
+person Mathieu Amalric already exist. skip next
+2017-05-21 00:14:09.4471 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=17367.html
+2017-05-21 00:14:09.5525 
+person Marion Cotillard already exist. skip next
+2017-05-21 00:14:09.5525 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=3125.html
+2017-05-21 00:14:09.6580 
+person Charlotte Gainsbourg already exist. skip next
+2017-05-21 00:14:09.6580 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=11738.html
+2017-05-21 00:14:09.7791 
+person Louis Garrel already exist. skip next
+2017-05-21 00:14:09.7791 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=169084.html
+2017-05-21 00:14:09.8934 
+person Alba Rohrwacher already exist. skip next
+2017-05-21 00:14:09.8934 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=5903.html
+2017-05-21 00:14:10.0008 
+person Hippolyte Girardot already exist. skip next
+2017-05-21 00:14:10.0008 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=184.html
+2017-05-21 00:14:10.1092 
+person Laszlo Szabo (I) already exist. skip next
+2017-05-21 00:14:10.1092 
+Build producers
+2017-05-21 00:14:10.1102 
+create new person by url /personne/fichepersonne_gen_cpersonne=39474.html
+2017-05-21 00:14:10.1102 
+create new person by url /personne/fichepersonne_gen_cpersonne=80435.html
+2017-05-21 00:14:10.1102 
+Build directors
+2017-05-21 00:14:10.1102 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=14398.html
+2017-05-21 00:14:10.2528 
+person Arnaud Desplechin already exist. skip next
+2017-05-21 00:14:10.2528 Build critics page 
+2017-05-21 00:14:12.9275 persist in database
+2017-05-21 00:14:13.0203  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245983.html
+2017-05-21 00:14:13.2273  launch constructor builds
+2017-05-21 00:14:17.7508 Build award page
+2017-05-21 00:14:17.7508 Not palmares page...
+2017-05-21 00:14:17.7508 Build seance page
+2017-05-21 00:14:26.0018 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:26.0018 GetRooms by url used
+2017-05-21 00:14:30.4822 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:30.4822 GetRooms by url used
+2017-05-21 00:14:35.4431 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:35.4431 GetRooms by url used
+2017-05-21 00:14:40.6590 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:40.6590 GetRooms by url used
+2017-05-21 00:14:46.6053 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:46.6053 GetRooms by url used
+2017-05-21 00:14:51.7332 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:51.7332 GetRooms by url used
+2017-05-21 00:14:55.3660 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:55.3660 GetRooms by url used
+2017-05-21 00:14:59.4705 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:14:59.4705 GetRooms by url used
+2017-05-21 00:15:55.7313 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:15:55.7313 GetRooms by url used
+2017-05-21 00:16:06.3367 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:06.3367 GetRooms by url used
+2017-05-21 00:16:10.2342 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:10.2342 GetRooms by url used
+2017-05-21 00:16:14.4607 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:14.4607 GetRooms by url used
+2017-05-21 00:16:22.4851 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:22.4851 GetRooms by url used
+2017-05-21 00:16:28.7234 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:28.7234 GetRooms by url used
+2017-05-21 00:16:34.1150 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:34.1150 GetRooms by url used
+2017-05-21 00:16:38.5594 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:38.5594 GetRooms by url used
+2017-05-21 00:16:43.3875 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:43.3875 GetRooms by url used
+2017-05-21 00:16:49.6570 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:49.6570 GetRooms by url used
+2017-05-21 00:16:54.0994 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:54.0994 GetRooms by url used
+2017-05-21 00:16:57.7742 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:16:57.7742 GetRooms by url used
+2017-05-21 00:17:02.7518 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:02.7518 GetRooms by url used
+2017-05-21 00:17:08.5838 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:08.5838 GetRooms by url used
+2017-05-21 00:17:13.1063 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:13.1063 GetRooms by url used
+2017-05-21 00:17:17.2049 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:17.2049 GetRooms by url used
+2017-05-21 00:17:22.9920 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:22.9920 GetRooms by url used
+2017-05-21 00:17:27.7986 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:27.7986 GetRooms by url used
+2017-05-21 00:17:34.3289 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:34.3289 GetRooms by url used
+2017-05-21 00:17:39.0526 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:39.0526 GetRooms by url used
+2017-05-21 00:17:43.1053 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:43.1053 GetRooms by url used
+2017-05-21 00:17:46.7195 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:46.7195 GetRooms by url used
+2017-05-21 00:17:51.2263 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:51.2263 GetRooms by url used
+2017-05-21 00:17:57.4656 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:17:57.4656 GetRooms by url used
+2017-05-21 00:18:01.8504 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:01.8504 GetRooms by url used
+2017-05-21 00:18:08.6180 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:08.6180 GetRooms by url used
+2017-05-21 00:18:13.1189 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:13.1189 GetRooms by url used
+2017-05-21 00:18:18.7840 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:18.7840 GetRooms by url used
+2017-05-21 00:18:27.0457 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:27.0457 GetRooms by url used
+2017-05-21 00:18:32.2879 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:32.2879 GetRooms by url used
+2017-05-21 00:18:39.0360 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:39.0360 GetRooms by url used
+2017-05-21 00:18:44.8660 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:44.8660 GetRooms by url used
+2017-05-21 00:18:50.7830 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:18:50.7830 GetRooms by url used
+2017-05-21 00:18:50.8202 Build photo page 
+2017-05-21 00:19:03.3358 Build homepage 
+2017-05-21 00:19:05.8475 
+ Set Name
+2017-05-21 00:19:05.8475 
+ Set Category
+2017-05-21 00:19:05.9471 
+ Set Nationality
+2017-05-21 00:19:05.9471 
+ Set Press Note
+2017-05-21 00:19:05.9471 
+Value to convert                 2.8 
+2017-05-21 00:19:05.9471 
+ Set Specatator Note
+2017-05-21 00:19:05.9471 
+Value to convert                 4.5 
+2017-05-21 00:19:05.9471 
+ Set Synopsis
+2017-05-21 00:19:05.9569 setup photo done
+2017-05-21 00:19:05.9569 
+set release date
+2017-05-21 00:19:06.0779 
+set seance number
+2017-05-21 00:19:06.0799 Build video page 
+2017-05-21 00:19:06.0799 Build casting page 
+2017-05-21 00:19:09.9890 
+Build writers
+2017-05-21 00:19:09.9890 
+Build actors
+2017-05-21 00:19:09.9890 ERROR xpath: pattern //main[@id='content-layout']//section[contains(@class, 'casting-actor')]//div[contains(@class, 'card')] no match
+2017-05-21 00:19:09.9890 
+Build producers
+2017-05-21 00:19:09.9890 
+create new person by url /personne/fichepersonne_gen_cpersonne=800514.html
+2017-05-21 00:19:09.9890 
+Build directors
+2017-05-21 00:19:10.3065 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=737682.html
+2017-05-21 00:19:10.6199 
+person Tomohiko Ito already exist. skip next
+2017-05-21 00:19:10.6199 Build critics page 
+2017-05-21 00:19:12.8944 persist in database
+2017-05-21 00:19:13.0614  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=248631.html
+2017-05-21 00:19:13.2850  launch constructor builds
+2017-05-21 00:19:15.9022 Build award page
+2017-05-21 00:19:15.9022 Not palmares page...
+2017-05-21 00:19:15.9022 Build seance page
+2017-05-21 00:19:26.3358 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:26.3358 GetRooms by url used
+2017-05-21 00:19:30.9119 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:30.9119 GetRooms by url used
+2017-05-21 00:19:38.7293 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:38.7293 GetRooms by url used
+2017-05-21 00:19:42.9647 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:42.9647 GetRooms by url used
+2017-05-21 00:19:46.8064 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:46.8064 GetRooms by url used
+2017-05-21 00:19:51.9139 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:51.9139 GetRooms by url used
+2017-05-21 00:19:56.4549 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:19:56.4549 GetRooms by url used
+2017-05-21 00:20:01.9520 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:01.9520 GetRooms by url used
+2017-05-21 00:20:08.6990 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:08.6990 GetRooms by url used
+2017-05-21 00:20:18.9549 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:18.9549 GetRooms by url used
+2017-05-21 00:20:23.5701 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:23.5701 GetRooms by url used
+2017-05-21 00:20:28.5144 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:28.5144 GetRooms by url used
+2017-05-21 00:20:32.7947 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:20:32.7947 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:32.7947 GetRooms by url used
+2017-05-21 00:20:37.4070 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:37.4070 GetRooms by url used
+2017-05-21 00:20:41.4939 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:41.4939 GetRooms by url used
+2017-05-21 00:20:48.6443 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:48.6443 GetRooms by url used
+2017-05-21 00:20:52.0027 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:52.0027 GetRooms by url used
+2017-05-21 00:20:55.4422 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:55.4422 GetRooms by url used
+2017-05-21 00:20:59.6561 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:20:59.6561 GetRooms by url used
+2017-05-21 00:21:04.4667 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:04.4667 GetRooms by url used
+2017-05-21 00:21:10.6063 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:10.6063 GetRooms by url used
+2017-05-21 00:21:15.7039 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:15.7039 GetRooms by url used
+2017-05-21 00:21:20.5331 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:20.5331 GetRooms by url used
+2017-05-21 00:21:25.3904 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:25.3914 GetRooms by url used
+2017-05-21 00:21:29.9041 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:29.9041 GetRooms by url used
+2017-05-21 00:21:34.2224 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:34.2224 GetRooms by url used
+2017-05-21 00:21:38.8934 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:38.8934 GetRooms by url used
+2017-05-21 00:21:42.5867 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:42.5867 GetRooms by url used
+2017-05-21 00:21:47.7761 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:47.7761 GetRooms by url used
+2017-05-21 00:21:51.3875 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:51.3875 GetRooms by url used
+2017-05-21 00:21:57.2566 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:21:57.2566 GetRooms by url used
+2017-05-21 00:22:01.6268 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:01.6268 GetRooms by url used
+2017-05-21 00:22:06.6072 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:06.6072 GetRooms by url used
+2017-05-21 00:22:12.1951 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:12.1951 GetRooms by url used
+2017-05-21 00:22:16.3631 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:16.3631 GetRooms by url used
+2017-05-21 00:22:22.2400 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:22.2400 GetRooms by url used
+2017-05-21 00:22:27.8583 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:27.8583 GetRooms by url used
+2017-05-21 00:22:31.9881 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:31.9881 GetRooms by url used
+2017-05-21 00:22:36.6736 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:36.6736 GetRooms by url used
+2017-05-21 00:22:41.2058 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:41.2058 GetRooms by url used
+2017-05-21 00:22:45.4705 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:22:45.4705 GetRooms by url used
+2017-05-21 00:22:45.4871 Build photo page 
+2017-05-21 00:22:55.0302 Build homepage 
+2017-05-21 00:22:58.4422 
+ Set Name
+2017-05-21 00:22:58.4422 
+ Set Category
+2017-05-21 00:22:58.4422 
+ Set Nationality
+2017-05-21 00:22:58.4422 
+ Set Press Note
+2017-05-21 00:22:58.4422 
+Value to convert                 2.3 
+2017-05-21 00:22:58.4422 
+ Set Specatator Note
+2017-05-21 00:22:58.4422 
+Value to convert                 2.6 
+2017-05-21 00:22:58.4422 
+ Set Synopsis
+2017-05-21 00:22:58.4422 setup photo done
+2017-05-21 00:22:58.4422 
+set release date
+2017-05-21 00:22:58.5613 
+set seance number
+2017-05-21 00:22:58.5633 Build video page 
+2017-05-21 00:22:58.5633 Build casting page 
+2017-05-21 00:23:00.6199 
+Build writers
+2017-05-21 00:23:00.6199 
+Build actors
+2017-05-21 00:23:00.6199 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=167770.html
+2017-05-21 00:23:00.8523 
+person Élodie Fontan already exist. skip next
+2017-05-21 00:23:00.8523 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=57570.html
+2017-05-21 00:23:00.9568 
+person Arthur Jugnot already exist. skip next
+2017-05-21 00:23:00.9568 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=87128.html
+2017-05-21 00:23:01.0721 
+person Juliette Arnaud already exist. skip next
+2017-05-21 00:23:01.0721 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=18207.html
+2017-05-21 00:23:01.1648 
+person Olivier Sitruk already exist. skip next
+2017-05-21 00:23:01.1648 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=20477.html
+2017-05-21 00:23:01.2557 
+person Andrée Damant already exist. skip next
+2017-05-21 00:23:01.2557 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=22224.html
+2017-05-21 00:23:01.3543 
+person Franck De La Personne already exist. skip next
+2017-05-21 00:23:01.3543 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=447016.html
+2017-05-21 00:23:01.4442 
+person Michael Gregorio already exist. skip next
+2017-05-21 00:23:01.4442 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=1938.html
+2017-05-21 00:23:01.5506 
+person Dominique Besnehard already exist. skip next
+2017-05-21 00:23:01.5506 
+Build producers
+2017-05-21 00:23:01.5506 
+create new person by url /personne/fichepersonne_gen_cpersonne=3011.html
+2017-05-21 00:23:01.5506 
+create new person by url /personne/fichepersonne_gen_cpersonne=604221.html
+2017-05-21 00:23:01.5506 
+create new person by url /personne/fichepersonne_gen_cpersonne=38306.html
+2017-05-21 00:23:01.5506 
+create new person by url /personne/fichepersonne_gen_cpersonne=217581.html
+2017-05-21 00:23:01.5506 
+create new person by url /personne/fichepersonne_gen_cpersonne=785616.html
+2017-05-21 00:23:01.5506 
+Build directors
+2017-05-21 00:23:01.5506 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=620908.html
+2017-05-21 00:23:01.6404 
+person Elliott Covrigaru already exist. skip next
+2017-05-21 00:23:01.6404 Build critics page 
+2017-05-21 00:23:05.9315 persist in database
+2017-05-21 00:23:05.9940  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=250823.html
+2017-05-21 00:23:06.2225  launch constructor builds
+2017-05-21 00:23:08.8533 Build award page
+2017-05-21 00:23:12.1385 Build seance page
+2017-05-21 00:23:18.8926 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:18.8926 GetRooms by url used
+2017-05-21 00:23:22.6336 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:22.6336 GetRooms by url used
+2017-05-21 00:23:27.5135 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:27.5135 GetRooms by url used
+2017-05-21 00:23:31.4051 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:31.4051 GetRooms by url used
+2017-05-21 00:23:35.6709 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:23:35.6709 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:35.6709 GetRooms by url used
+2017-05-21 00:23:39.4149 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:23:39.4149 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:39.4149 GetRooms by url used
+2017-05-21 00:23:47.7215 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:23:47.7215 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:47.7215 GetRooms by url used
+2017-05-21 00:23:51.4969 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:51.4969 GetRooms by url used
+2017-05-21 00:23:56.7322 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:23:56.7322 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:23:56.7322 GetRooms by url used
+2017-05-21 00:24:00.2420 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:00.2420 GetRooms by url used
+2017-05-21 00:24:10.0652 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:24:10.0652 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:10.0652 GetRooms by url used
+2017-05-21 00:24:13.6678 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:13.6678 GetRooms by url used
+2017-05-21 00:24:18.2654 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:24:18.2654 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:18.2654 GetRooms by url used
+2017-05-21 00:24:23.7420 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:24:23.7420 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:23.7420 GetRooms by url used
+2017-05-21 00:24:30.2166 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:30.2166 GetRooms by url used
+2017-05-21 00:24:34.7977 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:24:34.7977 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:34.7977 GetRooms by url used
+2017-05-21 00:24:38.5974 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:38.5974 GetRooms by url used
+2017-05-21 00:24:43.8719 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:43.8719 GetRooms by url used
+2017-05-21 00:24:54.6062 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:24:54.6062 GetRooms by url used
+2017-05-21 00:25:00.6287 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:25:00.6287 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:00.6287 GetRooms by url used
+2017-05-21 00:25:07.5994 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:07.5994 GetRooms by url used
+2017-05-21 00:25:13.7742 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:13.7742 GetRooms by url used
+2017-05-21 00:25:17.7488 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:17.7488 GetRooms by url used
+2017-05-21 00:25:21.5701 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:21.5701 GetRooms by url used
+2017-05-21 00:25:29.0555 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:29.0555 GetRooms by url used
+2017-05-21 00:25:34.4871 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:34.4871 GetRooms by url used
+2017-05-21 00:25:38.1365 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:38.1365 GetRooms by url used
+2017-05-21 00:25:42.2059 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:42.2059 GetRooms by url used
+2017-05-21 00:25:46.2381 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:46.2381 GetRooms by url used
+2017-05-21 00:25:50.9676 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:50.9676 GetRooms by url used
+2017-05-21 00:25:55.2039 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:25:55.2039 GetRooms by url used
+2017-05-21 00:26:00.2342 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:00.2342 GetRooms by url used
+2017-05-21 00:26:05.1326 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:05.1326 GetRooms by url used
+2017-05-21 00:26:10.1658 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:10.1658 GetRooms by url used
+2017-05-21 00:26:15.1785 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:15.1785 GetRooms by url used
+2017-05-21 00:26:20.7107 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:20.7107 GetRooms by url used
+2017-05-21 00:26:25.4187 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:25.4187 GetRooms by url used
+2017-05-21 00:26:29.2440 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:29.2440 GetRooms by url used
+2017-05-21 00:26:34.9226 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:34.9226 GetRooms by url used
+2017-05-21 00:26:40.1980 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:40.1980 GetRooms by url used
+2017-05-21 00:26:44.9891 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:26:44.9891 GetRooms by url used
+2017-05-21 00:26:45.6746 Build photo page 
+2017-05-21 00:27:08.3543 Build homepage 
+2017-05-21 00:27:10.5808 
+ Set Name
+2017-05-21 00:27:10.6474 
+ Set Category
+2017-05-21 00:27:10.6474 
+ Set Nationality
+2017-05-21 00:27:10.6474 
+ Set Press Note
+2017-05-21 00:27:10.6474 
+Value to convert                 3.4 
+2017-05-21 00:27:10.6474 
+ Set Specatator Note
+2017-05-21 00:27:10.6474 
+Value to convert                 3.4 
+2017-05-21 00:27:10.6474 
+ Set Synopsis
+2017-05-21 00:27:10.6590 setup photo done
+2017-05-21 00:27:10.6590 
+set release date
+2017-05-21 00:27:10.7693 
+set seance number
+2017-05-21 00:27:10.7693 Build video page 
+2017-05-21 00:27:10.7693 Build casting page 
+2017-05-21 00:27:14.8631 
+Build writers
+2017-05-21 00:27:14.8631 
+Build actors
+2017-05-21 00:27:14.8631 ERROR xpath: pattern //main[@id='content-layout']//section[contains(@class, 'casting-actor')]//div[contains(@class, 'card')] no match
+2017-05-21 00:27:14.8631 
+Build producers
+2017-05-21 00:27:14.8631 
+create new person by url /personne/fichepersonne_gen_cpersonne=182984.html
+2017-05-21 00:27:14.8631 
+create new person by url /personne/fichepersonne_gen_cpersonne=689544.html
+2017-05-21 00:27:14.8631 
+create new person by url /personne/fichepersonne_gen_cpersonne=806241.html
+2017-05-21 00:27:14.8631 
+create new person by url /personne/fichepersonne_gen_cpersonne=806242.html
+2017-05-21 00:27:14.8631 
+Build directors
+2017-05-21 00:27:14.8631 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=428963.html
+2017-05-21 00:27:15.1541 
+person Alexandru Belc already exist. skip next
+2017-05-21 00:27:15.1541 Build critics page 
+2017-05-21 00:27:19.8319 persist in database
+2017-05-21 00:27:20.7127  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=252102.html
+2017-05-21 00:27:20.9403  launch constructor builds
+2017-05-21 00:27:26.4227 Build award page
+2017-05-21 00:27:26.4227 Not palmares page...
+2017-05-21 00:27:26.4227 Build seance page
+2017-05-21 00:27:34.1277 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:34.1277 GetRooms by url used
+2017-05-21 00:27:39.0388 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:39.0388 GetRooms by url used
+2017-05-21 00:27:43.2859 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:43.2859 GetRooms by url used
+2017-05-21 00:27:49.0340 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:49.0340 GetRooms by url used
+2017-05-21 00:27:53.7469 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:27:53.7469 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:53.7469 GetRooms by url used
+2017-05-21 00:27:58.8182 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:27:58.8182 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:27:58.8182 GetRooms by url used
+2017-05-21 00:28:05.6033 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:05.6033 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:05.6033 GetRooms by url used
+2017-05-21 00:28:11.8055 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:11.8055 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:11.8055 GetRooms by url used
+2017-05-21 00:28:17.6854 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:17.6854 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:17.6854 GetRooms by url used
+2017-05-21 00:28:26.4734 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:26.4734 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:26.4734 GetRooms by url used
+2017-05-21 00:28:32.5330 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:32.5330 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:32.5330 GetRooms by url used
+2017-05-21 00:28:37.0154 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:37.0154 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:37.0154 GetRooms by url used
+2017-05-21 00:28:40.8767 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:40.8767 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:40.8767 GetRooms by url used
+2017-05-21 00:28:45.6473 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:45.6473 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:45.6473 GetRooms by url used
+2017-05-21 00:28:49.9052 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:49.9052 GetRooms by url used
+2017-05-21 00:28:53.9969 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:28:53.9969 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:53.9969 GetRooms by url used
+2017-05-21 00:28:58.1121 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:28:58.1121 GetRooms by url used
+2017-05-21 00:29:03.6121 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:29:03.6121 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:03.6121 GetRooms by url used
+2017-05-21 00:29:07.9335 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:07.9335 GetRooms by url used
+2017-05-21 00:29:11.9412 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:29:11.9412 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:11.9412 GetRooms by url used
+2017-05-21 00:29:18.1570 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:18.1570 GetRooms by url used
+2017-05-21 00:29:22.3866 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:22.3866 GetRooms by url used
+2017-05-21 00:29:28.1269 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:28.1269 GetRooms by url used
+2017-05-21 00:29:33.0184 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:33.0184 GetRooms by url used
+2017-05-21 00:29:38.9949 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:38.9949 GetRooms by url used
+2017-05-21 00:29:42.7938 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:42.7938 GetRooms by url used
+2017-05-21 00:29:47.1346 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:47.1346 GetRooms by url used
+2017-05-21 00:29:51.8660 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:51.8660 GetRooms by url used
+2017-05-21 00:29:55.5897 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:29:55.5897 GetRooms by url used
+2017-05-21 00:30:01.6668 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:01.6668 GetRooms by url used
+2017-05-21 00:30:06.2254 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:06.2254 GetRooms by url used
+2017-05-21 00:30:13.6551 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:13.6551 GetRooms by url used
+2017-05-21 00:30:18.0516 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:18.0516 GetRooms by url used
+2017-05-21 00:30:24.8260 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:24.8260 GetRooms by url used
+2017-05-21 00:30:33.9354 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:33.9354 GetRooms by url used
+2017-05-21 00:30:40.7078 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:40.7078 GetRooms by url used
+2017-05-21 00:30:46.0233 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:46.0233 GetRooms by url used
+2017-05-21 00:30:50.6043 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:50.6043 GetRooms by url used
+2017-05-21 00:30:59.8943 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:30:59.8943 GetRooms by url used
+2017-05-21 00:31:04.7459 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:04.7459 GetRooms by url used
+2017-05-21 00:31:11.0408 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:11.0408 GetRooms by url used
+2017-05-21 00:31:11.1394 Build photo page 
+2017-05-21 00:31:22.5643 Build homepage 
+2017-05-21 00:31:25.6082 
+ Set Name
+2017-05-21 00:31:25.6092 
+ Set Category
+2017-05-21 00:31:25.6092 
+ Set Nationality
+2017-05-21 00:31:25.6092 
+ Set Press Note
+2017-05-21 00:31:25.6092 
+Value to convert                 2.0 
+2017-05-21 00:31:25.6092 
+ Set Specatator Note
+2017-05-21 00:31:25.6092 
+ Set Synopsis
+2017-05-21 00:31:25.6092 setup photo done
+2017-05-21 00:31:25.6092 
+set release date
+2017-05-21 00:31:25.7743 
+set seance number
+2017-05-21 00:31:25.7743 Build video page 
+2017-05-21 00:31:25.7743 Build casting page 
+2017-05-21 00:31:29.4100 
+Build writers
+2017-05-21 00:31:29.4100 
+Build actors
+2017-05-21 00:31:29.4100 ERROR xpath: pattern //main[@id='content-layout']//section[contains(@class, 'casting-actor')]//div[contains(@class, 'card')] no match
+2017-05-21 00:31:29.4100 
+Build producers
+2017-05-21 00:31:29.4100 ERROR xpath: pattern //main[@id='content-layout']//div[contains(@class, 'casting-list')]//div[contains(@itemprop, 'producer')] no match
+2017-05-21 00:31:29.4100 
+Build directors
+2017-05-21 00:31:29.4100 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=795060.html
+2017-05-21 00:31:30.8152 
+person Olivier Servais already exist. skip next
+2017-05-21 00:31:30.8152 Build critics page 
+2017-05-21 00:31:30.8152 Not critiques/spectateurs page...
+2017-05-21 00:31:30.8152 persist in database
+2017-05-21 00:31:31.0702  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=249801.html
+2017-05-21 00:31:31.3679  launch constructor builds
+2017-05-21 00:31:34.6726 Build award page
+2017-05-21 00:31:37.7967 Build seance page
+2017-05-21 00:31:43.9148 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:43.9148 GetRooms by url used
+2017-05-21 00:31:47.6600 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:47.6600 GetRooms by url used
+2017-05-21 00:31:51.6766 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:51.6766 GetRooms by url used
+2017-05-21 00:31:56.7206 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:31:56.7206 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:31:56.7206 GetRooms by url used
+2017-05-21 00:32:01.6737 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:01.6737 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:01.6737 GetRooms by url used
+2017-05-21 00:32:06.4549 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:06.4549 GetRooms by url used
+2017-05-21 00:32:12.0682 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:12.0682 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:12.0682 GetRooms by url used
+2017-05-21 00:32:17.5467 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:17.5467 GetRooms by url used
+2017-05-21 00:32:23.6893 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:23.6893 GetRooms by url used
+2017-05-21 00:32:33.3601 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:33.3601 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:33.3601 GetRooms by url used
+2017-05-21 00:32:37.1687 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:37.1687 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:37.1687 GetRooms by url used
+2017-05-21 00:32:41.3602 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:41.3602 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:41.3602 GetRooms by url used
+2017-05-21 00:32:45.5252 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:45.5252 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:45.5252 GetRooms by url used
+2017-05-21 00:32:49.3613 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:49.3613 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:49.3613 GetRooms by url used
+2017-05-21 00:32:53.7469 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:53.7469 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:53.7469 GetRooms by url used
+2017-05-21 00:32:57.8319 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:32:57.8319 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:32:57.8319 GetRooms by url used
+2017-05-21 00:33:03.0593 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:03.0593 GetRooms by url used
+2017-05-21 00:33:06.7557 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:33:06.7557 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:06.7557 GetRooms by url used
+2017-05-21 00:33:12.5223 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:33:12.5223 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:12.5223 GetRooms by url used
+2017-05-21 00:33:16.7752 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:33:16.7752 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:16.7752 GetRooms by url used
+2017-05-21 00:33:20.9246 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:20.9246 GetRooms by url used
+2017-05-21 00:33:26.0818 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:26.0818 GetRooms by url used
+2017-05-21 00:33:30.5877 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:30.5877 GetRooms by url used
+2017-05-21 00:33:34.2586 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:34.2586 GetRooms by url used
+2017-05-21 00:33:39.3709 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:39.3709 GetRooms by url used
+2017-05-21 00:33:45.0399 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:45.0399 GetRooms by url used
+2017-05-21 00:33:48.5438 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:48.5438 GetRooms by url used
+2017-05-21 00:33:52.2596 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:52.2596 GetRooms by url used
+2017-05-21 00:33:56.8319 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:33:56.8319 GetRooms by url used
+2017-05-21 00:34:01.4696 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:01.4696 GetRooms by url used
+2017-05-21 00:34:06.7869 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:06.7869 GetRooms by url used
+2017-05-21 00:34:10.5233 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:10.5233 GetRooms by url used
+2017-05-21 00:34:14.6366 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:14.6366 GetRooms by url used
+2017-05-21 00:34:20.6648 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:20.6648 GetRooms by url used
+2017-05-21 00:34:29.3914 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:29.3914 GetRooms by url used
+2017-05-21 00:34:32.9539 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:32.9539 GetRooms by url used
+2017-05-21 00:34:36.4461 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:36.4461 GetRooms by url used
+2017-05-21 00:34:39.5594 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:39.5594 GetRooms by url used
+2017-05-21 00:34:42.9705 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:42.9705 GetRooms by url used
+2017-05-21 00:34:46.4793 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:46.4793 GetRooms by url used
+2017-05-21 00:34:50.6482 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:34:50.6482 GetRooms by url used
+2017-05-21 00:34:50.6482 Build photo page 
+2017-05-21 00:35:07.5291 Build homepage 
+2017-05-21 00:35:10.2996 
+ Set Name
+2017-05-21 00:35:10.2996 
+ Set Category
+2017-05-21 00:35:10.3172 
+ Set Nationality
+2017-05-21 00:35:10.3172 
+ Set Press Note
+2017-05-21 00:35:10.3172 
+Value to convert                 3.4 
+2017-05-21 00:35:10.3172 
+ Set Specatator Note
+2017-05-21 00:35:10.3377 
+Value to convert                 3.2 
+2017-05-21 00:35:10.3377 
+ Set Synopsis
+2017-05-21 00:35:10.3377 setup photo done
+2017-05-21 00:35:10.3377 
+set release date
+2017-05-21 00:35:10.5497 
+set seance number
+2017-05-21 00:35:10.5497 Build video page 
+2017-05-21 00:35:10.5497 Build casting page 
+2017-05-21 00:35:12.7927 
+Build writers
+2017-05-21 00:35:12.7927 
+Build actors
+2017-05-21 00:35:12.9307 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=126914.html
+2017-05-21 00:35:13.1668 
+person Nuno Lopes already exist. skip next
+2017-05-21 00:35:13.1668 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=578841.html
+2017-05-21 00:35:13.2489 
+person Mariana Nunes already exist. skip next
+2017-05-21 00:35:13.2489 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=784862.html
+2017-05-21 00:35:13.3318 
+person David Semedo already exist. skip next
+2017-05-21 00:35:13.3318 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=201800.html
+2017-05-21 00:35:13.4158 
+person José Raposo already exist. skip next
+2017-05-21 00:35:13.4158 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=88519.html
+2017-05-21 00:35:13.5457 
+person Jean-Pierre Martins already exist. skip next
+2017-05-21 00:35:13.5457 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=91083.html
+2017-05-21 00:35:13.6307 
+person Beatriz Batarda already exist. skip next
+2017-05-21 00:35:13.6307 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=198664.html
+2017-05-21 00:35:13.7137 
+person Gonçalo Waddington already exist. skip next
+2017-05-21 00:35:13.7137 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=602055.html
+2017-05-21 00:35:13.8211 
+person Ricardo Fernandes already exist. skip next
+2017-05-21 00:35:13.8211 
+Build producers
+2017-05-21 00:35:13.8211 
+create new person by url /personne/fichepersonne_gen_cpersonne=142849.html
+2017-05-21 00:35:13.8211 
+create new person by url /personne/fichepersonne_gen_cpersonne=86424.html
+2017-05-21 00:35:13.8211 
+Build directors
+2017-05-21 00:35:13.8211 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=126913.html
+2017-05-21 00:35:13.9383 
+person Marco Martins already exist. skip next
+2017-05-21 00:35:13.9383 Build critics page 
+2017-05-21 00:35:15.7762 persist in database
+2017-05-21 00:35:16.3699  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=6425.html
+2017-05-21 00:35:16.5486  launch constructor builds
+2017-05-21 00:35:19.6756 Build award page
+2017-05-21 00:35:22.4070 Build seance page
+2017-05-21 00:35:29.3816 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:29.3816 GetRooms by url used
+2017-05-21 00:35:33.3943 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:33.3943 GetRooms by url used
+2017-05-21 00:35:37.3055 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:37.3055 GetRooms by url used
+2017-05-21 00:35:42.2606 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:42.2606 GetRooms by url used
+2017-05-21 00:35:46.6775 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:35:46.6775 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:46.6775 GetRooms by url used
+2017-05-21 00:35:51.1385 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:35:51.1385 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:51.1385 GetRooms by url used
+2017-05-21 00:35:54.2625 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:35:54.2625 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:35:54.2625 GetRooms by url used
+2017-05-21 00:36:00.0184 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:00.0184 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:00.0184 GetRooms by url used
+2017-05-21 00:36:04.1961 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:04.1961 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:04.1961 GetRooms by url used
+2017-05-21 00:36:08.9920 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:08.9920 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:08.9920 GetRooms by url used
+2017-05-21 00:36:13.4539 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:13.4539 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:13.4539 GetRooms by url used
+2017-05-21 00:36:17.0896 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:17.0896 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:17.0896 GetRooms by url used
+2017-05-21 00:36:24.5584 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:24.5584 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:24.5584 GetRooms by url used
+2017-05-21 00:36:30.0818 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:30.0818 GetRooms by url used
+2017-05-21 00:36:33.5770 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:33.5770 GetRooms by url used
+2017-05-21 00:36:38.4324 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:38.4324 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:38.4324 GetRooms by url used
+2017-05-21 00:36:42.4861 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:42.4861 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:42.4861 GetRooms by url used
+2017-05-21 00:36:46.3983 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:46.3983 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:46.3983 GetRooms by url used
+2017-05-21 00:36:50.6600 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:50.6600 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:50.6600 GetRooms by url used
+2017-05-21 00:36:54.4900 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:36:54.4900 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:54.4900 GetRooms by url used
+2017-05-21 00:36:58.7010 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:36:58.7010 GetRooms by url used
+2017-05-21 00:37:04.6306 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:04.6306 GetRooms by url used
+2017-05-21 00:37:08.1531 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:08.1531 GetRooms by url used
+2017-05-21 00:37:13.0203 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:13.0203 GetRooms by url used
+2017-05-21 00:37:16.7205 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:16.7205 GetRooms by url used
+2017-05-21 00:37:20.2420 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:20.2420 GetRooms by url used
+2017-05-21 00:37:24.1502 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:24.1502 GetRooms by url used
+2017-05-21 00:37:28.1083 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:28.1083 GetRooms by url used
+2017-05-21 00:37:32.5135 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:32.5135 GetRooms by url used
+2017-05-21 00:37:36.7889 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:36.7889 GetRooms by url used
+2017-05-21 00:37:40.4500 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:40.4500 GetRooms by url used
+2017-05-21 00:37:45.0946 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:45.0946 GetRooms by url used
+2017-05-21 00:37:49.2274 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:49.2274 GetRooms by url used
+2017-05-21 00:37:53.4989 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:53.4989 GetRooms by url used
+2017-05-21 00:37:57.5243 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:37:57.5243 GetRooms by url used
+2017-05-21 00:38:03.4871 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:03.4871 GetRooms by url used
+2017-05-21 00:38:07.7830 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:07.7830 GetRooms by url used
+2017-05-21 00:38:11.6180 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:11.6180 GetRooms by url used
+2017-05-21 00:38:16.8485 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:16.8485 GetRooms by url used
+2017-05-21 00:38:20.6717 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:20.6727 GetRooms by url used
+2017-05-21 00:38:24.4774 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:24.4774 GetRooms by url used
+2017-05-21 00:38:24.4774 Build photo page 
+2017-05-21 00:38:39.6199 Build homepage 
+2017-05-21 00:38:41.2019 
+ Set Name
+2017-05-21 00:38:41.2019 
+ Set Category
+2017-05-21 00:38:41.2039 
+ Set Nationality
+2017-05-21 00:38:41.2039 
+ Set Press Note
+2017-05-21 00:38:41.2039 
+Value to convert                 5.0 
+2017-05-21 00:38:41.2039 
+ Set Specatator Note
+2017-05-21 00:38:41.2039 
+Value to convert                 4.1 
+2017-05-21 00:38:41.2039 
+ Set Synopsis
+2017-05-21 00:38:41.2039 setup photo done
+2017-05-21 00:38:41.2039 
+set release date
+2017-05-21 00:38:41.3015 
+set seance number
+2017-05-21 00:38:41.3015 Build video page 
+2017-05-21 00:38:41.3015 Build casting page 
+2017-05-21 00:38:43.8631 
+Build writers
+2017-05-21 00:38:43.8631 
+Build actors
+2017-05-21 00:38:43.8631 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=301.html
+2017-05-21 00:38:44.0681 
+person Richard Gere already exist. skip next
+2017-05-21 00:38:44.0681 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=5360.html
+2017-05-21 00:38:44.1541 
+person Brooke Adams already exist. skip next
+2017-05-21 00:38:44.1541 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=13905.html
+2017-05-21 00:38:44.2322 
+person Linda Manz already exist. skip next
+2017-05-21 00:38:44.2322 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=69064.html
+2017-05-21 00:38:44.3279 
+person Stuart Margolin already exist. skip next
+2017-05-21 00:38:44.3279 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=6315.html
+2017-05-21 00:38:44.4394 
+person Sam Shepard already exist. skip next
+2017-05-21 00:38:44.4394 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=49480.html
+2017-05-21 00:38:44.5213 
+person Robert J. Wilke already exist. skip next
+2017-05-21 00:38:44.5213 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=141346.html
+2017-05-21 00:38:44.6101 
+person Jackie Shultis already exist. skip next
+2017-05-21 00:38:44.6101 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=62927.html
+2017-05-21 00:38:44.7254 
+person Timothy Scott already exist. skip next
+2017-05-21 00:38:44.7254 
+Build producers
+2017-05-21 00:38:44.7254 
+create new person by url /personne/fichepersonne_gen_cpersonne=46070.html
+2017-05-21 00:38:44.7254 
+create new person by url /personne/fichepersonne_gen_cpersonne=59392.html
+2017-05-21 00:38:44.7254 
+create new person by url /personne/fichepersonne_gen_cpersonne=80275.html
+2017-05-21 00:38:44.7254 
+Build directors
+2017-05-21 00:38:44.7254 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=13904.html
+2017-05-21 00:38:44.8192 
+person Terrence Malick already exist. skip next
+2017-05-21 00:38:44.8192 Build critics page 
+2017-05-21 00:38:48.6385 persist in database
+2017-05-21 00:38:48.6707  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255222.html
+2017-05-21 00:38:48.8660  launch constructor builds
+2017-05-21 00:38:53.3983 Build award page
+2017-05-21 00:38:53.3983 Not palmares page...
+2017-05-21 00:38:53.3983 Build seance page
+2017-05-21 00:38:59.9540 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:38:59.9540 GetRooms by url used
+2017-05-21 00:39:03.6004 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:03.6004 GetRooms by url used
+2017-05-21 00:39:08.9617 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:08.9617 GetRooms by url used
+2017-05-21 00:39:12.7049 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:12.7049 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:12.7049 GetRooms by url used
+2017-05-21 00:39:22.4217 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:22.4217 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:22.4217 GetRooms by url used
+2017-05-21 00:39:25.9539 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:25.9539 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:25.9539 GetRooms by url used
+2017-05-21 00:39:29.1590 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:29.1590 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:29.1590 GetRooms by url used
+2017-05-21 00:39:34.5555 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:34.5555 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:34.5555 GetRooms by url used
+2017-05-21 00:39:38.0584 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:38.0584 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:38.0584 GetRooms by url used
+2017-05-21 00:39:41.3505 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:41.3505 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:41.3505 GetRooms by url used
+2017-05-21 00:39:46.2918 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:46.2918 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:46.2918 GetRooms by url used
+2017-05-21 00:39:49.9910 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:49.9910 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:49.9910 GetRooms by url used
+2017-05-21 00:39:54.7205 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:54.7205 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:54.7205 GetRooms by url used
+2017-05-21 00:39:58.9529 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:39:58.9529 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:39:58.9529 GetRooms by url used
+2017-05-21 00:40:03.1200 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:03.1200 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:03.1200 GetRooms by url used
+2017-05-21 00:40:08.8602 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:08.8602 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:08.8602 GetRooms by url used
+2017-05-21 00:40:14.6541 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:14.6541 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:14.6541 GetRooms by url used
+2017-05-21 00:40:20.1502 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:20.1502 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:20.1502 GetRooms by url used
+2017-05-21 00:40:24.5936 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:24.5936 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:24.5936 GetRooms by url used
+2017-05-21 00:40:28.0144 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:40:28.0144 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:28.0144 GetRooms by url used
+2017-05-21 00:40:31.6033 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:31.6033 GetRooms by url used
+2017-05-21 00:40:35.8231 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:35.8231 GetRooms by url used
+2017-05-21 00:40:39.1131 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:39.1131 GetRooms by url used
+2017-05-21 00:40:43.0066 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:43.0066 GetRooms by url used
+2017-05-21 00:40:51.6034 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:51.6034 GetRooms by url used
+2017-05-21 00:40:58.1072 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:40:58.1072 GetRooms by url used
+2017-05-21 00:41:01.9168 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:01.9168 GetRooms by url used
+2017-05-21 00:41:05.8982 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:05.8982 GetRooms by url used
+2017-05-21 00:41:09.4891 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:09.4891 GetRooms by url used
+2017-05-21 00:41:13.3914 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:13.3914 GetRooms by url used
+2017-05-21 00:41:17.3524 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:17.3524 GetRooms by url used
+2017-05-21 00:41:21.7459 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:21.7459 GetRooms by url used
+2017-05-21 00:41:26.3856 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:26.3856 GetRooms by url used
+2017-05-21 00:41:35.4510 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:35.4510 GetRooms by url used
+2017-05-21 00:41:39.4724 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:39.4724 GetRooms by url used
+2017-05-21 00:41:42.8699 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:42.8699 GetRooms by url used
+2017-05-21 00:41:47.0291 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:47.0291 GetRooms by url used
+2017-05-21 00:41:50.0086 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:50.0086 GetRooms by url used
+2017-05-21 00:41:53.2635 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:41:53.2635 GetRooms by url used
+2017-05-21 00:42:06.1649 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:06.1649 GetRooms by url used
+2017-05-21 00:42:11.0359 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:11.0359 GetRooms by url used
+2017-05-21 00:42:11.0359 Build photo page 
+2017-05-21 00:42:20.7293 Build homepage 
+2017-05-21 00:42:22.7244 
+ Set Name
+2017-05-21 00:42:22.7244 
+ Set Category
+2017-05-21 00:42:22.7244 
+ Set Nationality
+2017-05-21 00:42:22.7244 
+ Set Press Note
+2017-05-21 00:42:22.7244 Error: pattern don't match for GetNote
+2017-05-21 00:42:22.7244 
+ Set Specatator Note
+2017-05-21 00:42:22.7244 Error: pattern don't match for GetNote
+2017-05-21 00:42:22.7244 
+ Set Synopsis
+2017-05-21 00:42:22.7244 setup photo done
+2017-05-21 00:42:22.7244 
+set release date
+2017-05-21 00:42:22.8523 
+set seance number
+2017-05-21 00:42:22.8523 Build video page 
+2017-05-21 00:42:22.8523 Build casting page 
+2017-05-21 00:42:31.3982 
+Build writers
+2017-05-21 00:42:31.3982 
+Build actors
+2017-05-21 00:42:31.3982 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=4592.html
+2017-05-21 00:42:31.5994 
+person Bernard Ménez already exist. skip next
+2017-05-21 00:42:31.5994 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=6530.html
+2017-05-21 00:42:31.6844 
+person Jean-Claude Dreyfus already exist. skip next
+2017-05-21 00:42:31.6844 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=9524.html
+2017-05-21 00:42:31.7986 
+person Jackie Berroyer already exist. skip next
+2017-05-21 00:42:31.7986 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=14959.html
+2017-05-21 00:42:31.8973 
+person Bruno Putzulu already exist. skip next
+2017-05-21 00:42:31.8973 pattern .//strong[contains(@class,'meta-title')]//a[contains(@class,'meta-title-link')] doesn't match
+2017-05-21 00:42:31.8973 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=7186.html
+2017-05-21 00:42:32.0066 
+person Jeanne Goupil already exist. skip next
+2017-05-21 00:42:32.0066 pattern .//strong[contains(@class,'meta-title')]//a[contains(@class,'meta-title-link')] doesn't match
+2017-05-21 00:42:32.0066 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=35937.html
+2017-05-21 00:42:32.1209 
+person Géraldine Danon already exist. skip next
+2017-05-21 00:42:32.1209 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=655088.html
+2017-05-21 00:42:32.2322 
+person Rémi Boutet de Monvel already exist. skip next
+2017-05-21 00:42:32.2322 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=499955.html
+2017-05-21 00:42:32.3279 
+person Mathieu Lourdel already exist. skip next
+2017-05-21 00:42:32.3279 
+Build producers
+2017-05-21 00:42:32.3299 ERROR xpath: pattern //main[@id='content-layout']//div[contains(@class, 'casting-list')]//div[contains(@itemprop, 'producer')] no match
+2017-05-21 00:42:32.3299 
+Build directors
+2017-05-21 00:42:32.3299 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=199373.html
+2017-05-21 00:42:32.4373 
+person Jacques Richard (II) already exist. skip next
+2017-05-21 00:42:32.4373 Build critics page 
+2017-05-21 00:42:32.4393 Not critiques/spectateurs page...
+2017-05-21 00:42:32.4393 persist in database
+2017-05-21 00:42:32.6073  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=255286.html
+2017-05-21 00:42:32.8573  launch constructor builds
+2017-05-21 00:42:36.9510 Build award page
+2017-05-21 00:42:36.9510 Not palmares page...
+2017-05-21 00:42:36.9510 Build seance page
+2017-05-21 00:42:41.9998 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:41.9998 GetRooms by url used
+2017-05-21 00:42:45.2987 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:45.2987 GetRooms by url used
+2017-05-21 00:42:49.2996 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:49.2996 GetRooms by url used
+2017-05-21 00:42:53.4334 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:53.4334 GetRooms by url used
+2017-05-21 00:42:57.2742 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:42:57.2742 GetRooms by url used
+2017-05-21 00:43:00.8963 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:00.8963 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:00.8963 GetRooms by url used
+2017-05-21 00:43:04.4100 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:04.4100 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:04.4100 GetRooms by url used
+2017-05-21 00:43:08.6160 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:08.6160 GetRooms by url used
+2017-05-21 00:43:13.1659 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:13.1659 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:13.1659 GetRooms by url used
+2017-05-21 00:43:18.3505 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:18.3505 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:18.3505 GetRooms by url used
+2017-05-21 00:43:22.1023 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:22.1023 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:22.1023 GetRooms by url used
+2017-05-21 00:43:25.9842 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:25.9842 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:25.9842 GetRooms by url used
+2017-05-21 00:43:29.5320 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:29.5320 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:29.5320 GetRooms by url used
+2017-05-21 00:43:33.4705 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:33.4705 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:33.4705 GetRooms by url used
+2017-05-21 00:43:38.5604 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:38.5604 GetRooms by url used
+2017-05-21 00:43:42.1805 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:42.1805 GetRooms by url used
+2017-05-21 00:43:46.6034 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:46.6034 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:46.6034 GetRooms by url used
+2017-05-21 00:43:50.0438 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:50.0438 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:50.0438 GetRooms by url used
+2017-05-21 00:43:53.9773 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:53.9773 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:53.9773 GetRooms by url used
+2017-05-21 00:43:57.6111 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:43:57.6111 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:43:57.6111 GetRooms by url used
+2017-05-21 00:44:01.0008 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:01.0008 GetRooms by url used
+2017-05-21 00:44:04.7068 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:04.7068 GetRooms by url used
+2017-05-21 00:44:09.0330 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:09.0330 GetRooms by url used
+2017-05-21 00:44:12.5623 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:12.5623 GetRooms by url used
+2017-05-21 00:44:16.0662 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:16.0662 GetRooms by url used
+2017-05-21 00:44:19.7101 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:19.7101 GetRooms by url used
+2017-05-21 00:44:23.1229 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:23.1229 GetRooms by url used
+2017-05-21 00:44:27.7664 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:27.7664 GetRooms by url used
+2017-05-21 00:44:31.5281 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:31.5281 GetRooms by url used
+2017-05-21 00:44:35.3250 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:35.3250 GetRooms by url used
+2017-05-21 00:44:39.9910 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:39.9910 GetRooms by url used
+2017-05-21 00:44:43.2400 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:43.2400 GetRooms by url used
+2017-05-21 00:44:47.4891 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:47.4891 GetRooms by url used
+2017-05-21 00:44:51.4920 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:51.4920 GetRooms by url used
+2017-05-21 00:44:55.5965 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:55.5965 GetRooms by url used
+2017-05-21 00:44:59.7088 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:44:59.7088 GetRooms by url used
+2017-05-21 00:45:03.4549 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:03.4549 GetRooms by url used
+2017-05-21 00:45:06.9217 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:06.9217 GetRooms by url used
+2017-05-21 00:45:10.6806 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:10.6806 GetRooms by url used
+2017-05-21 00:45:14.0613 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:14.0613 GetRooms by url used
+2017-05-21 00:45:18.6619 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:18.6619 GetRooms by url used
+2017-05-21 00:45:18.6619 Build photo page 
+2017-05-21 00:45:25.4803 Build homepage 
+2017-05-21 00:45:28.3045 
+ Set Name
+2017-05-21 00:45:28.3045 
+ Set Category
+2017-05-21 00:45:28.3045 
+ Set Nationality
+2017-05-21 00:45:28.3045 
+ Set Press Note
+2017-05-21 00:45:28.3045 Error: pattern don't match for GetNote
+2017-05-21 00:45:28.3045 
+ Set Specatator Note
+2017-05-21 00:45:28.3045 Error: pattern don't match for GetNote
+2017-05-21 00:45:28.3045 
+ Set Synopsis
+2017-05-21 00:45:28.3045 pattern //div[contains(@class,'card-movie')]//figure//a[contains(@class,'thumbnail-container thumbnail-link')]//img doesn't match
+2017-05-21 00:45:28.3045 
+set release date
+2017-05-21 00:45:28.4236 
+set seance number
+2017-05-21 00:45:28.4236 Build video page 
+2017-05-21 00:45:28.4236 Build casting page 
+2017-05-21 00:45:30.6668 
+Build writers
+2017-05-21 00:45:30.6668 
+Build actors
+2017-05-21 00:45:30.6668 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=672149.html
+2017-05-21 00:45:30.8846 
+person Shraddha Kapoor already exist. skip next
+2017-05-21 00:45:30.8846 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=156724.html
+2017-05-21 00:45:30.9871 
+person Arjun Kapoor already exist. skip next
+2017-05-21 00:45:30.9871 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=705309.html
+2017-05-21 00:45:31.1102 
+person Greg Kriek already exist. skip next
+2017-05-21 00:45:31.1102 
+Build producers
+2017-05-21 00:45:31.1102 ERROR xpath: pattern //main[@id='content-layout']//div[contains(@class, 'casting-list')]//div[contains(@itemprop, 'producer')] no match
+2017-05-21 00:45:31.1102 
+Build directors
+2017-05-21 00:45:31.1102 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=192420.html
+2017-05-21 00:45:31.2196 
+person Mohit Suri already exist. skip next
+2017-05-21 00:45:31.2196 Build critics page 
+2017-05-21 00:45:31.2196 Not critiques/spectateurs page...
+2017-05-21 00:45:31.2196 persist in database
+2017-05-21 00:45:31.3924  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=245426.html
+2017-05-21 00:45:31.5574  launch constructor builds
+2017-05-21 00:45:35.9188 Build award page
+2017-05-21 00:45:35.9188 Not palmares page...
+2017-05-21 00:45:35.9188 Build seance page
+2017-05-21 00:45:41.9773 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:41.9773 GetRooms by url used
+2017-05-21 00:45:45.7088 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:45.7088 GetRooms by url used
+2017-05-21 00:45:49.2068 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:49.2068 GetRooms by url used
+2017-05-21 00:45:53.4314 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:45:53.4314 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:53.4314 GetRooms by url used
+2017-05-21 00:45:56.9598 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:45:56.9598 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:45:56.9598 GetRooms by url used
+2017-05-21 00:46:00.4617 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:00.4617 GetRooms by url used
+2017-05-21 00:46:05.0194 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:05.0194 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:05.0194 GetRooms by url used
+2017-05-21 00:46:09.3211 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:09.3211 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:09.3211 GetRooms by url used
+2017-05-21 00:46:13.0595 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:13.0595 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:13.0595 GetRooms by url used
+2017-05-21 00:46:16.5721 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:16.5721 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:16.5721 GetRooms by url used
+2017-05-21 00:46:20.2049 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:20.2049 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:20.2049 GetRooms by url used
+2017-05-21 00:46:24.0145 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:24.0145 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:24.0145 GetRooms by url used
+2017-05-21 00:46:27.9696 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:27.9696 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:27.9696 GetRooms by url used
+2017-05-21 00:46:31.6980 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:31.6980 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:31.6980 GetRooms by url used
+2017-05-21 00:46:35.5584 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:35.5584 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:35.5584 GetRooms by url used
+2017-05-21 00:46:39.6453 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:39.6453 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:39.6453 GetRooms by url used
+2017-05-21 00:46:43.5066 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:43.5066 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:43.5066 GetRooms by url used
+2017-05-21 00:46:46.8837 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:46.8837 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:46.8837 GetRooms by url used
+2017-05-21 00:46:50.4100 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:50.4100 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:50.4100 GetRooms by url used
+2017-05-21 00:46:54.0643 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:46:54.0643 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:54.0643 GetRooms by url used
+2017-05-21 00:46:57.6424 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:46:57.6424 GetRooms by url used
+2017-05-21 00:47:02.1658 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:02.1658 GetRooms by url used
+2017-05-21 00:47:06.5213 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:06.5213 GetRooms by url used
+2017-05-21 00:47:10.5291 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:10.5291 GetRooms by url used
+2017-05-21 00:47:14.0643 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:14.0643 GetRooms by url used
+2017-05-21 00:47:17.6385 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:17.6385 GetRooms by url used
+2017-05-21 00:47:23.3553 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:23.3553 GetRooms by url used
+2017-05-21 00:47:26.9833 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:26.9833 GetRooms by url used
+2017-05-21 00:47:31.1619 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:31.1619 GetRooms by url used
+2017-05-21 00:47:35.1619 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:35.1619 GetRooms by url used
+2017-05-21 00:47:39.6678 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:39.6678 GetRooms by url used
+2017-05-21 00:47:43.7117 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:43.7117 GetRooms by url used
+2017-05-21 00:47:47.6834 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:47.6834 GetRooms by url used
+2017-05-21 00:47:51.4647 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:51.4647 GetRooms by url used
+2017-05-21 00:47:55.0711 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:47:55.0711 GetRooms by url used
+2017-05-21 00:48:04.8260 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:04.8260 GetRooms by url used
+2017-05-21 00:48:09.8826 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:09.8826 GetRooms by url used
+2017-05-21 00:48:13.3807 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:13.3807 GetRooms by url used
+2017-05-21 00:48:18.6590 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:18.6590 GetRooms by url used
+2017-05-21 00:48:22.2166 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:22.2166 GetRooms by url used
+2017-05-21 00:48:26.0369 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:26.0369 GetRooms by url used
+2017-05-21 00:48:26.0369 Build photo page 
+2017-05-21 00:48:35.6942 Build homepage 
+2017-05-21 00:48:37.4129 
+ Set Name
+2017-05-21 00:48:37.4265 
+ Set Category
+2017-05-21 00:48:37.4265 
+ Set Nationality
+2017-05-21 00:48:37.4265 
+ Set Press Note
+2017-05-21 00:48:37.4265 
+Value to convert                 3.3 
+2017-05-21 00:48:37.4265 
+ Set Specatator Note
+2017-05-21 00:48:37.4265 
+ Set Synopsis
+2017-05-21 00:48:37.4265 setup photo done
+2017-05-21 00:48:37.4265 
+set release date
+2017-05-21 00:48:37.5291 
+set seance number
+2017-05-21 00:48:37.5291 Build video page 
+2017-05-21 00:48:37.5291 Build casting page 
+2017-05-21 00:48:40.6248 
+Build writers
+2017-05-21 00:48:40.6248 
+Build actors
+2017-05-21 00:48:40.6248 ERROR xpath: pattern //main[@id='content-layout']//section[contains(@class, 'casting-actor')]//div[contains(@class, 'card')] no match
+2017-05-21 00:48:40.6248 
+Build producers
+2017-05-21 00:48:40.6248 ERROR xpath: pattern //main[@id='content-layout']//div[contains(@class, 'casting-list')]//div[contains(@itemprop, 'producer')] no match
+2017-05-21 00:48:40.6248 
+Build directors
+2017-05-21 00:48:40.6259 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=768003.html
+2017-05-21 00:48:40.8172 
+person François Miron already exist. skip next
+2017-05-21 00:48:40.8172 Build critics page 
+2017-05-21 00:48:40.8172 Not critiques/spectateurs page...
+2017-05-21 00:48:40.8172 persist in database
+2017-05-21 00:48:40.8357  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=1794.html
+2017-05-21 00:48:41.0291  launch constructor builds
+2017-05-21 00:48:44.0516 Build award page
+2017-05-21 00:48:46.8250 Build seance page
+2017-05-21 00:48:52.0233 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:52.0233 GetRooms by url used
+2017-05-21 00:48:55.5907 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:55.5907 GetRooms by url used
+2017-05-21 00:48:59.6023 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:48:59.6023 GetRooms by url used
+2017-05-21 00:49:04.9617 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:04.9617 GetRooms by url used
+2017-05-21 00:49:10.1512 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:10.1512 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:10.1512 GetRooms by url used
+2017-05-21 00:49:14.4129 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:14.4129 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:14.4129 GetRooms by url used
+2017-05-21 00:49:18.4764 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:18.4764 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:18.4764 GetRooms by url used
+2017-05-21 00:49:23.0721 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:23.0721 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:23.0721 GetRooms by url used
+2017-05-21 00:49:26.7166 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:26.7166 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:26.7166 GetRooms by url used
+2017-05-21 00:49:31.4959 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:31.4959 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:31.4959 GetRooms by url used
+2017-05-21 00:49:34.9110 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:34.9110 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:34.9110 GetRooms by url used
+2017-05-21 00:49:39.4539 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:39.4539 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:39.4539 GetRooms by url used
+2017-05-21 00:49:43.5750 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:43.5750 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:43.5750 GetRooms by url used
+2017-05-21 00:49:47.1961 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:47.1961 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:47.1961 GetRooms by url used
+2017-05-21 00:49:50.9735 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:50.9735 GetRooms by url used
+2017-05-21 00:49:55.0653 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:55.0653 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:55.0653 GetRooms by url used
+2017-05-21 00:49:59.1785 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:49:59.1785 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:49:59.1785 GetRooms by url used
+2017-05-21 00:50:03.0604 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:50:03.0604 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:03.0604 GetRooms by url used
+2017-05-21 00:50:06.4588 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:50:06.4588 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:06.4588 GetRooms by url used
+2017-05-21 00:50:11.1668 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:50:11.1668 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:11.1668 GetRooms by url used
+2017-05-21 00:50:21.8152 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:21.8152 GetRooms by url used
+2017-05-21 00:50:25.4354 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:25.4354 GetRooms by url used
+2017-05-21 00:50:29.6932 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:29.6932 GetRooms by url used
+2017-05-21 00:50:34.4306 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:34.4306 GetRooms by url used
+2017-05-21 00:50:38.5897 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:38.5897 GetRooms by url used
+2017-05-21 00:50:43.1131 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:43.1131 GetRooms by url used
+2017-05-21 00:50:48.5907 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:48.5907 GetRooms by url used
+2017-05-21 00:50:51.9275 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:51.9275 GetRooms by url used
+2017-05-21 00:50:55.3260 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:55.3260 GetRooms by url used
+2017-05-21 00:50:59.0047 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:50:59.0047 GetRooms by url used
+2017-05-21 00:51:02.3445 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:02.3445 GetRooms by url used
+2017-05-21 00:51:07.9598 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:07.9598 GetRooms by url used
+2017-05-21 00:51:11.5642 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:11.5642 GetRooms by url used
+2017-05-21 00:51:15.6170 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:15.6170 GetRooms by url used
+2017-05-21 00:51:19.0867 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:19.0867 GetRooms by url used
+2017-05-21 00:51:22.5408 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:22.5408 GetRooms by url used
+2017-05-21 00:51:28.2156 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:28.2156 GetRooms by url used
+2017-05-21 00:51:31.4012 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:31.4012 GetRooms by url used
+2017-05-21 00:51:35.6111 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:35.6111 GetRooms by url used
+2017-05-21 00:51:42.4060 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:42.4060 GetRooms by url used
+2017-05-21 00:51:45.9070 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:51:45.9070 GetRooms by url used
+2017-05-21 00:51:45.9070 Build photo page 
+2017-05-21 00:51:55.5682 Build homepage 
+2017-05-21 00:51:57.4666 
+ Set Name
+2017-05-21 00:51:57.4666 
+ Set Category
+2017-05-21 00:51:57.4695 
+ Set Nationality
+2017-05-21 00:51:57.4695 
+ Set Press Note
+2017-05-21 00:51:57.4695 
+Value to convert                 5.0 
+2017-05-21 00:51:57.4695 
+ Set Specatator Note
+2017-05-21 00:51:57.4695 
+Value to convert                 3.9 
+2017-05-21 00:51:57.4695 
+ Set Synopsis
+2017-05-21 00:51:57.4695 setup photo done
+2017-05-21 00:51:57.4695 
+set release date
+2017-05-21 00:51:57.6287 
+set seance number
+2017-05-21 00:51:57.6287 Build video page 
+2017-05-21 00:51:57.6287 Build casting page 
+2017-05-21 00:52:01.7840 
+Build writers
+2017-05-21 00:52:01.7840 
+Build actors
+2017-05-21 00:52:01.7840 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=1161.html
+2017-05-21 00:52:01.9676 
+person Claudia Cardinale already exist. skip next
+2017-05-21 00:52:01.9676 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=4872.html
+2017-05-21 00:52:02.0672 
+person Michael Graig already exist. skip next
+2017-05-21 00:52:02.0672 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=402.html
+2017-05-21 00:52:02.1639 
+person Jean Sorel already exist. skip next
+2017-05-21 00:52:02.1639 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=4873.html
+2017-05-21 00:52:02.2508 
+person Marie Bell already exist. skip next
+2017-05-21 00:52:02.2508 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=4874.html
+2017-05-21 00:52:02.3583 
+person Renzo Ricci already exist. skip next
+2017-05-21 00:52:02.3583 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=209506.html
+2017-05-21 00:52:02.4588 
+person Fred Williams already exist. skip next
+2017-05-21 00:52:02.4588 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=559657.html
+2017-05-21 00:52:02.5564 
+person Amalia Troiani already exist. skip next
+2017-05-21 00:52:02.5564 pattern .//strong[contains(@class,'meta-title')]//a[contains(@class,'meta-title-link')] doesn't match
+2017-05-21 00:52:02.5564 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=559658.html
+2017-05-21 00:52:02.6444 
+person Vittorio Manfrino already exist. skip next
+2017-05-21 00:52:02.6444 
+Build producers
+2017-05-21 00:52:02.6444 
+create new person by url /personne/fichepersonne_gen_cpersonne=35489.html
+2017-05-21 00:52:02.6444 
+Build directors
+2017-05-21 00:52:02.6444 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=894.html
+2017-05-21 00:52:02.7361 
+person Luchino Visconti already exist. skip next
+2017-05-21 00:52:02.7361 Build critics page 
+2017-05-21 00:52:05.5770 persist in database
+2017-05-21 00:52:07.7489  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=253755.html
+2017-05-21 00:52:07.9295  launch constructor builds
+2017-05-21 00:52:12.4012 Build award page
+2017-05-21 00:52:12.4012 Not palmares page...
+2017-05-21 00:52:12.4012 Build seance page
+2017-05-21 00:52:19.3094 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:19.3094 GetRooms by url used
+2017-05-21 00:52:23.5594 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:23.5594 GetRooms by url used
+2017-05-21 00:52:28.0301 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:28.0301 GetRooms by url used
+2017-05-21 00:52:32.1268 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:32.1268 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:32.1268 GetRooms by url used
+2017-05-21 00:52:41.0126 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:41.0126 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:41.0126 GetRooms by url used
+2017-05-21 00:52:44.3191 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:44.3191 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:44.3191 GetRooms by url used
+2017-05-21 00:52:48.5116 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:48.5116 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:48.5116 GetRooms by url used
+2017-05-21 00:52:52.1757 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:52.1757 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:52.1757 GetRooms by url used
+2017-05-21 00:52:56.1043 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:52:56.1043 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:52:56.1043 GetRooms by url used
+2017-05-21 00:53:00.1277 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:00.1277 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:00.1277 GetRooms by url used
+2017-05-21 00:53:04.4324 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:04.4324 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:04.4324 GetRooms by url used
+2017-05-21 00:53:08.4939 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:08.4939 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:08.4939 GetRooms by url used
+2017-05-21 00:53:14.1084 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:14.1084 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:14.1084 GetRooms by url used
+2017-05-21 00:53:17.5018 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:17.5018 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:17.5018 GetRooms by url used
+2017-05-21 00:53:23.0691 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:23.0691 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:23.0691 GetRooms by url used
+2017-05-21 00:53:26.5683 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:26.5683 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:26.5683 GetRooms by url used
+2017-05-21 00:53:30.4090 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:30.4090 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:30.4090 GetRooms by url used
+2017-05-21 00:53:34.4656 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:34.4656 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:34.4656 GetRooms by url used
+2017-05-21 00:53:38.2381 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:38.2381 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:38.2381 GetRooms by url used
+2017-05-21 00:53:42.0565 pattern //div[contains(@class,'theater hred')] doesn't match
+2017-05-21 00:53:42.0565 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:42.0565 GetRooms by url used
+2017-05-21 00:53:46.1971 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:46.1971 GetRooms by url used
+2017-05-21 00:53:51.7469 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:51.7469 GetRooms by url used
+2017-05-21 00:53:55.4735 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:55.4735 GetRooms by url used
+2017-05-21 00:53:59.5662 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:53:59.5662 GetRooms by url used
+2017-05-21 00:54:03.4510 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:03.4510 GetRooms by url used
+2017-05-21 00:54:07.1893 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:07.1893 GetRooms by url used
+2017-05-21 00:54:12.1834 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:12.1834 GetRooms by url used
+2017-05-21 00:54:16.7918 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:16.7918 GetRooms by url used
+2017-05-21 00:54:42.8523 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:42.8523 GetRooms by url used
+2017-05-21 00:54:47.0174 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:47.0174 GetRooms by url used
+2017-05-21 00:54:51.2665 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:51.2665 GetRooms by url used
+2017-05-21 00:54:56.3094 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:54:56.3094 GetRooms by url used
+2017-05-21 00:55:00.6033 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:00.6033 GetRooms by url used
+2017-05-21 00:55:05.3562 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:05.3562 GetRooms by url used
+2017-05-21 00:55:09.3836 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:09.3836 GetRooms by url used
+2017-05-21 00:55:13.2683 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:13.2683 GetRooms by url used
+2017-05-21 00:55:23.2022 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:23.2022 GetRooms by url used
+2017-05-21 00:55:27.4403 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:27.4403 GetRooms by url used
+2017-05-21 00:55:31.1951 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:31.1951 GetRooms by url used
+2017-05-21 00:55:36.1317 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:36.1317 GetRooms by url used
+2017-05-21 00:55:39.3347 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
+2017-05-21 00:55:39.3347 GetRooms by url used
+2017-05-21 00:55:39.3347 Build photo page 
+2017-05-21 00:55:48.8074 Build homepage 
+2017-05-21 00:55:52.3826 
+ Set Name
+2017-05-21 00:55:52.3826 
+ Set Category
+2017-05-21 00:55:52.3826 
+ Set Nationality
+2017-05-21 00:55:52.3826 
+ Set Press Note
+2017-05-21 00:55:52.3826 Error: pattern don't match for GetNote
+2017-05-21 00:55:52.3826 
+ Set Specatator Note
+2017-05-21 00:55:52.3826 Error: pattern don't match for GetNote
+2017-05-21 00:55:52.3826 
+ Set Synopsis
+2017-05-21 00:55:52.3826 setup photo done
+2017-05-21 00:55:52.3826 
+set release date
+2017-05-21 00:55:52.4930 
+set seance number
+2017-05-21 00:55:52.4930 Build video page 
+2017-05-21 00:55:52.4930 Build casting page 
+2017-05-21 00:55:54.5271 
+Build writers
+2017-05-21 00:55:54.5271 
+Build actors
+2017-05-21 00:55:54.5271 ERROR xpath: pattern //main[@id='content-layout']//section[contains(@class, 'casting-actor')]//div[contains(@class, 'card')] no match
+2017-05-21 00:55:54.5271 
+Build producers
+2017-05-21 00:55:54.5476 ERROR xpath: pattern //main[@id='content-layout']//div[contains(@class, 'casting-list')]//div[contains(@itemprop, 'producer')] no match
+2017-05-21 00:55:54.5476 
+Build directors
+2017-05-21 00:55:54.5711 
+create new person by url http://www.allocine.fr//personne/fichepersonne_gen_cpersonne=18462.html
+2017-05-21 00:55:54.7986 
+person Michka Saal already exist. skip next
+2017-05-21 00:55:54.7986 Build critics page 
+2017-05-21 00:55:54.7986 Not critiques/spectateurs page...
+2017-05-21 00:55:54.7986 persist in database
+2017-05-21 00:55:59.3553 End process
+2017-05-21 13:45:16.3221 ##teamcity[message text='mode=-mode']
+2017-05-21 13:45:24.9520 End process

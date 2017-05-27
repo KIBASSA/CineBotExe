@@ -1,0 +1,3 @@
+2017-05-26 00:02:42.2742 ##teamcity[message text='mode=cinemareleasesoftheweek']
+2017-05-26 13:45:16.9959 ##teamcity[message text='mode=-mode']
+2017-05-26 13:45:33.1736 End process

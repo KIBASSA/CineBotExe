@@ -1,0 +1,7 @@
+2017-05-25 00:01:01.9540 ##teamcity[message text='mode=cinemareleasesoftheweek']
+2017-05-24 13:09:22.9959 ##teamcity[message text='mode=cinemaalwaysshowing']
+2017-05-24 13:09:37.6121 **** page 0
+2017-05-24 13:09:44.7293  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=189525.html
+2017-05-24 13:09:52.2850  launch constructor builds
+2017-05-25 13:45:17.1864 ##teamcity[message text='mode=-mode']
+2017-05-25 13:45:29.6678 End process
