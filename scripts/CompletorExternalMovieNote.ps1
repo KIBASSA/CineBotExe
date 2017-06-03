@@ -7,6 +7,10 @@ write-host "##teamcity[message text='junior']"
 
 #start-process -filepath 'cineparser.exe' -ArgumentList "-mode cinemaalwaysshowing" -Credential $Credential
 
+start-process -filepath 'BatchCompletor.exe' -ArgumentList "-mode complete-note-movie-this-week -start 0 -offset 400"
+
 start-process -filepath 'BatchCompletor.exe' -ArgumentList "-mode complete-note-movie-on-display -start 0 -offset 400"
+
+
 
 write-host "##teamcity[message text='kibassa']"
