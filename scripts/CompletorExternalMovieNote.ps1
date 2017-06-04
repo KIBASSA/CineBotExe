@@ -11,6 +11,8 @@ start-process -filepath 'BatchCompletor.exe' -ArgumentList "-mode complete-note-
 
 start-process -filepath 'BatchCompletor.exe' -ArgumentList "-mode complete-note-movie-on-display -start 0 -offset 400"
 
+start-process -filepath 'BatchCompletor.exe' -ArgumentList "-mode complete-note-next-movie -start 0 -offset 400"
+
 
 
 write-host "##teamcity[message text='kibassa']"
