@@ -1,3 +1,0 @@
-2017-06-04 00:00:05.3447 pattern //div[contains(@class,'theater hred')] doesn't match
-2017-06-04 00:00:05.3447 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-06-04 00:00:05.3447 GetRooms by url used
