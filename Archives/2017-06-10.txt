@@ -1,0 +1,1 @@
+2017-06-10 00:00:57.4110 ##teamcity[message text='mode=cinemareleasesoftheweek']
