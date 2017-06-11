@@ -92,3 +92,41 @@ Set Birth
 2017-06-11 01:11:14.5136 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
 2017-06-11 01:11:17.2196  launch constructor builds for Samuel Le Bihan - index 12
 2017-06-11 01:11:24.3836 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:42:55.7870 ##teamcity[message text='mode=refix-person-profile']
+2017-06-11 01:45:58.3290  launch constructor builds for Hugh Wilson - index 0
+2017-06-11 01:46:17.1884 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:46:49.3626 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 01:46:49.3847 
+Set Birth 
+2017-06-11 01:46:49.3847 value of birth 21 août 1943
+2017-06-11 01:46:52.1200 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 01:46:56.5205 ############set photo
+2017-06-11 01:46:56.9559  launch constructor builds for David Mamet - index 1
+2017-06-11 01:47:01.0848 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:48:26.3798 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 01:48:26.3906 
+Set Birth 
+2017-06-11 01:48:26.3906 value of birth 30 novembre 1947
+2017-06-11 01:48:31.7255  launch constructor builds for Ajay Devgn - index 2
+2017-06-11 01:48:36.9168 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:48:40.3046 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 01:48:40.3046 
+Set Birth 
+2017-06-11 01:48:40.3046 value of birth 2 avril 1969
+2017-06-11 01:48:42.9579 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 01:48:45.2518  launch constructor builds for Joyce Buñuel - index 3
+2017-06-11 01:48:50.5946 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:52:33.5790 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 01:52:35.5624 
+Set Birth 
+2017-06-11 01:52:35.5624 pattern .//a[contains(@class,'xXx')] doesn't match
+2017-06-11 01:52:39.0741 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 01:52:39.1161  launch constructor builds for Maclain Nelson - index 4
+2017-06-11 01:52:44.1493 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 01:53:00.6338 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 01:53:00.6796 
+Set Birth 
+2017-06-11 01:53:00.6796 pattern .//a[contains(@class,'xXx')] doesn't match
+2017-06-11 01:53:03.6151 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 01:53:03.8612  launch constructor builds for Kenneth Branagh - index 5
+2017-06-11 01:53:12.3954 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
