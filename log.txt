@@ -132,74 +132,64 @@ Set Birth
 2017-06-11 01:53:12.3954 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
 2017-06-11 10:56:20.6376 ##teamcity[message text='mode=refix-person-profile']
 2017-06-11 11:11:06.3173 ##teamcity[message text='mode=refix-person-profile']
-2017-06-11 11:15:57.2948 ##teamcity[message text='mode=refix-person-profile']
-2017-06-11 11:23:11.7968 ##teamcity[message text='mode=refix-person-profile']
-2017-06-11 11:28:23.7235  launch constructor builds for Hugh Wilson - index 0
-2017-06-11 11:28:34.7567 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:29:05.8974 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:29:05.9160 
+2017-06-11 17:53:09.9764 ##teamcity[message text='mode=refix-person-profile']
+2017-06-11 17:55:43.8191  launch constructor builds for Hugh Wilson - index 0
+2017-06-11 17:55:54.4119 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 17:56:43.7175 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 17:56:43.7293 
 Set Birth 
-2017-06-11 11:29:05.9160 value of birth 21 août 1943
-2017-06-11 11:29:08.9305 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:29:12.1346 ############set photo
-2017-06-11 11:29:12.7031  launch constructor builds for Enzo G. Castellari - index 1
-2017-06-11 11:29:18.5975 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:30:09.2499 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:30:09.2567 
+2017-06-11 17:56:43.7293 value of birth 21 août 1943
+2017-06-11 17:56:46.4169 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 17:56:53.4480 ############set photo
+2017-06-11 17:56:56.0115  launch constructor builds for Enzo G. Castellari - index 1
+2017-06-11 17:57:02.6268 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 17:57:56.7049 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 17:57:56.7166 
 Set Birth 
-2017-06-11 11:30:09.2567 pattern .//a[contains(@class,'xXx')] doesn't match
-2017-06-11 11:30:11.9511 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:30:11.9745  launch constructor builds for Alvaro Longoria - index 2
-2017-06-11 11:30:18.0575 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:30:20.4042 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:30:20.4139 
+2017-06-11 17:57:56.7166 pattern .//a[contains(@class,'xXx')] doesn't match
+2017-06-11 17:57:59.8025 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 17:57:59.8416  launch constructor builds for Alvaro Longoria - index 2
+2017-06-11 17:58:05.5974 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 17:58:10.3650 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 17:58:10.3728 
 Set Birth 
-2017-06-11 11:30:20.4139 pattern .//a[contains(@class,'xXx')] doesn't match
-2017-06-11 11:30:26.7284 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:30:26.7479  launch constructor builds for Yves Mirande - index 3
-2017-06-11 11:30:32.2821 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:30:40.7821 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:30:40.7928 
+2017-06-11 17:58:10.3728 pattern .//a[contains(@class,'xXx')] doesn't match
+2017-06-11 17:58:13.4031 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 17:58:13.4187  launch constructor builds for Yves Mirande - index 3
+2017-06-11 17:58:19.1951 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 17:58:27.4627 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 17:58:27.4627 
 Set Birth 
-2017-06-11 11:30:40.7928 pattern .//a[contains(@class,'xXx')] doesn't match
-2017-06-11 11:30:43.6005  launch constructor builds for David Mamet - index 4
-2017-06-11 11:30:49.3182 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:32:08.0888 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:32:08.1122 
+2017-06-11 17:58:27.4627 pattern .//a[contains(@class,'xXx')] doesn't match
+2017-06-11 17:58:30.7117  launch constructor builds for David Mamet - index 4
+2017-06-11 17:58:36.6873 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 18:00:00.9217 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 18:00:00.9324 
 Set Birth 
-2017-06-11 11:32:08.1151 value of birth 30 novembre 1947
-2017-06-11 11:32:12.1727  launch constructor builds for Bruce Timm - index 5
-2017-06-11 11:32:15.8143 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:32:17.2792 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:32:17.2870 
+2017-06-11 18:00:00.9324 value of birth 30 novembre 1947
+2017-06-11 18:00:06.0633  launch constructor builds for Bruce Timm - index 5
+2017-06-11 18:00:11.5369 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 18:00:14.8084 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 18:00:14.8084 
 Set Birth 
-2017-06-11 11:32:17.2870 value of birth 8 février 1961
-2017-06-11 11:32:18.9530 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:32:24.0360 pattern .//div[contains(@class,'card card-video')] doesn't match
-2017-06-11 11:32:24.0575 ############set photo
-2017-06-11 11:32:24.5673  launch constructor builds for Zalman King - index 6
-2017-06-11 11:32:30.6025 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:32:32.1737 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:32:32.1786 
+2017-06-11 18:00:14.8084 value of birth 8 février 1961
+2017-06-11 18:00:17.8074 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 18:00:23.2937 pattern .//div[contains(@class,'card card-video')] doesn't match
+2017-06-11 18:00:23.3143 ############set photo
+2017-06-11 18:00:23.7137  launch constructor builds for Zalman King - index 6
+2017-06-11 18:00:28.7381 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 18:00:31.1932 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 18:00:31.2020 
 Set Birth 
-2017-06-11 11:32:32.1786 value of birth 23 mai 1942
-2017-06-11 11:32:33.7596 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:32:33.8153 ############set photo
-2017-06-11 11:32:34.0682  launch constructor builds for Andrey Konchalovskiy - index 7
-2017-06-11 11:32:35.2411 ##teamcity[message text='mode=refix-person-profile']
-2017-06-11 11:32:38.0204 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:33:21.2870 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
-2017-06-11 11:33:21.2870 
+2017-06-11 18:00:31.2020 value of birth 23 mai 1942
+2017-06-11 18:00:33.7840 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
+2017-06-11 18:00:33.8045 ############set photo
+2017-06-11 18:00:34.1277  launch constructor builds for Andrey Konchalovskiy - index 7
+2017-06-11 18:00:39.9275 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 18:01:36.0223 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
+2017-06-11 18:01:36.0418 
 Set Birth 
-2017-06-11 11:33:21.2870 value of birth 20 août 1937
-2017-06-11 11:33:28.4804 pattern .//div[contains(@class,'card card-video')] doesn't match
-2017-06-11 11:33:28.5262  launch constructor builds for Hideaki Anno - index 8
-2017-06-11 11:33:32.3827 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
-2017-06-11 11:34:20.3222 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img5.acsta.net/c_215_290/pictures/210/608/21060843_20131125212201048.jpg'
-2017-06-11 11:34:20.3358 
-Set Birth 
-2017-06-11 11:34:20.3358 value of birth 22 mai 1960
-2017-06-11 11:34:22.1698 pattern //main[@id='content-layout']//section[2]//div[@class='person-biography'] doesn't match
-2017-06-11 11:34:28.1269 pattern .//div[contains(@class,'card card-video')] doesn't match
-2017-06-11 11:34:28.1747  launch constructor builds for Stanley Kubrick - index 9
-2017-06-11 11:34:34.2792 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
+2017-06-11 18:01:36.0418 value of birth 20 août 1937
+2017-06-11 18:01:45.0789 pattern .//div[contains(@class,'card card-video')] doesn't match
+2017-06-11 18:01:45.1024  launch constructor builds for Hideaki Anno - index 8
+2017-06-11 18:01:51.9725 pattern .//div[contains(@class,'titlebar')]//h2 doesn't match
