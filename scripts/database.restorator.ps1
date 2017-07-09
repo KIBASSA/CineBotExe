@@ -17,7 +17,7 @@ try
     $session.Open($sessionOptions)
 
     # Download files
-    $session.GetFiles("/*", "C:\Users\Administrator\Documents\Database-Backup\*").Check()
+    $session.GetFiles("/*", [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup\*").Check()
 }
 finally
 {
@@ -25,14 +25,11 @@ finally
     $session.Dispose()
 }
 
+$backupFolder = [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup";
+
+Set-Location $backupFolder;
 
 
-#$importExe = (Get-Location).Path + "\mongoexport.exe";
+$restoreExe = $backupFolder + "\mongorestore.exe";
 
-#& $importExe --host '51.255.207.126:27017' --db cinebot --collection Cinema -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' --out 'cinema.json';
-#& $importExe --host '51.255.207.126:27017' --db cinebot --collection Person -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' --out 'person.json';
-#& $importExe --host '51.255.207.126:27017' --db cinebot --collection UserConversations -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' --out 'userconversations.json';
-#& $importExe --host '51.255.207.126:27017' --db cinebot --collection News -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' --out 'news.json'
-#& $importExe --host '51.255.207.126:27017' --db cinebot --collection ContributionMoviesProvider -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' --out 'contributionmoviesprovider.json';
-
-
+& $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA@' --authenticationDatabase 'admin' "C:\Users\Junior\Documents\DatabaseBackup\dump";
