@@ -1,4 +1,7 @@
-﻿# Load WinSCP .NET assembly
+﻿$backupFolder = [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup";
+
+
+# Load WinSCP .NET assembly
 Add-Type -Path "WinSCPnet.dll"
 
 # Setup session options
@@ -25,11 +28,16 @@ finally
     $session.Dispose()
 }
 
-$backupFolder = [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup";
+
 
 Set-Location $backupFolder;
 
+#•drop database
+$mongoExe = $backupFolder + "\mongo.exe";
 
+& $mongoExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA@' --authenticationDatabase 'admin' cinebot --eval "db.dropDatabase()";
+
+#restore databse
 $restoreExe = $backupFolder + "\mongorestore.exe";
 
 & $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA@' --authenticationDatabase 'admin' "C:\Users\Junior\Documents\DatabaseBackup\dump";
