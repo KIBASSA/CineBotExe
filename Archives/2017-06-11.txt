@@ -1,1 +1,0 @@
-2017-06-11 00:00:28.6581 pattern s*.+\/(?<value>[0-9]+).jpg doesn't match with src photo 'http://fr.web.img2.acsta.net/c_215_290/commons/v9/common/empty/empty_photo_new.png'
