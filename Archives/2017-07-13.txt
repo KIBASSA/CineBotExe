@@ -1,4 +1,0 @@
-2017-07-13 00:00:58.0101 System.IndexOutOfRangeException: Index was outside the bounds of the array.
-   at CineParser.Program.Main(String[] args) in C:\Users\Administrator\Source\Repos\CineBot\CineParser\Program.cs:line 22
-2017-07-13 13:45:17.0569 System.IndexOutOfRangeException: Index was outside the bounds of the array.
-   at CineParser.Program.Main(String[] args) in C:\Users\Administrator\Source\Repos\CineBot\CineParser\Program.cs:line 22
