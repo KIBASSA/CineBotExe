@@ -1,22 +1,5 @@
-2017-07-17 12:59:22.2201 ##teamcity[message text='mode=cinemareleasesoftheweek']
-2017-07-17 12:59:25.9690 ##teamcity[message text='Begin process']
-2017-07-17 12:59:48.1263 **** page 0
-2017-07-17 12:59:52.0296  cinema with url: http://www.allocine.fr//film/fichefilm_gen_cfilm=209778.html
-2017-07-17 12:59:55.2425  launch constructor builds
-2017-07-17 13:00:00.2591 Build award page
-2017-07-17 13:00:00.3440 Not palmares page...
-2017-07-17 13:00:00.3440 Build seance page
-2017-07-17 13:00:15.2533 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:15.2533 GetRooms by url used
-2017-07-17 13:00:22.1829 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:22.1829 GetRooms by url used
-2017-07-17 13:00:29.3597 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:29.3597 GetRooms by url used
-2017-07-17 13:00:36.0726 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:36.0726 GetRooms by url used
-2017-07-17 13:00:41.6019 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:41.6019 GetRooms by url used
-2017-07-17 13:00:48.0999 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:48.1009 GetRooms by url used
-2017-07-17 13:00:56.3724 pattern //nav[contains(@class,'pagination cf')]//a[contains(@class,'button')] | span[contains(@class,'button')] doesn't match
-2017-07-17 13:00:56.3724 GetRooms by url used
+2017-07-26 04:37:19.5817 ##teamcity[message text='mode=complete-profile-photo']
+2017-07-26 04:37:19.6172 ##teamcity[message text='Begin process']
+2017-07-26 04:37:33.5633 ##teamcity[message text='End process']
+2017-07-26 04:37:52.2538 ##teamcity[message text='mode=complete-profile-photo']
+2017-07-26 04:37:52.2538 ##teamcity[message text='Begin process']
