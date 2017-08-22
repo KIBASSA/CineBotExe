@@ -1,5 +1,2 @@
-2017-07-26 04:37:19.5817 ##teamcity[message text='mode=complete-profile-photo']
-2017-07-26 04:37:19.6172 ##teamcity[message text='Begin process']
-2017-07-26 04:37:33.5633 ##teamcity[message text='End process']
-2017-07-26 04:37:52.2538 ##teamcity[message text='mode=complete-profile-photo']
-2017-07-26 04:37:52.2538 ##teamcity[message text='Begin process']
+2017-08-18 12:59:42.7862 ##teamcity[message text='mode=add-vod']
+2017-08-18 12:59:42.7862 ##teamcity[message text='Begin process']

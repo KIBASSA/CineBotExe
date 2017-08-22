@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Correspondance>
+<Items>
+  <Item>
+    <Allocine>Gaumont Rennes</Allocine>
+    <Gaumont>Gaumont Rennes</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Opéra (côté Premier)</Allocine>
+    <Gaumont>Gaumont Opéra côté Premier</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Parnasse</Allocine>
+    <Gaumont>Gaumont Parnasse côté Parnasse</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Convention</Allocine>
+    <Gaumont>Gaumont Convention</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Aquaboulevard</Allocine>
+    <Gaumont>Gaumont Aquaboulevard</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Carré Sénart</Allocine>
+    <Gaumont>Gaumont Carré Sénart</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Opéra (côté Capucines)</Allocine>
+    <Gaumont>Gaumont Opéra côté Capucines</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Champs-Elysées - Marignan</Allocine>
+    <Gaumont>Gaumont Champs Elysées</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Toulouse Labege IMAX</Allocine>
+    <Gaumont>Gaumont Labège</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Reims Parc Millesime</Allocine>
+    <Gaumont>Gaumont Parc Millésime</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Les Fauvettes</Allocine>
+    <Gaumont>Gaumont Les Fauvettes</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Alésia</Allocine>
+    <Gaumont>Gaumont Alésia</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Toulouse Wilson</Allocine>
+    <Gaumont>Gaumont Wilson</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Nantes multiplexe</Allocine>
+    <Gaumont>Gaumont Nantes</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Montpellier Comédie</Allocine>
+    <Gaumont>Gaumont Comédie</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Docks Vauban</Allocine>
+    <Gaumont></Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Angers multiplexe</Allocine>
+    <Gaumont>Gaumont Angers Multiplexe</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Montpellier multiplexe</Allocine>
+    <Gaumont>Gaumont Montpellier Multiplexe</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Bordeaux Talence</Allocine>
+    <Gaumont>Gaumont Talence Universités</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Parnasse côté Montparnos</Allocine>
+    <Gaumont>Gaumont Parnasse côté Montparnos</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Disney Village IMAX</Allocine>
+    <Gaumont>Gaumont Disney Village</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Opéra (côté Français)</Allocine>
+    <Gaumont>Gaumont Opéra côté Français</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Gaumont Valenciennes</Allocine>
+    <Gaumont>Gaumont Valenciennes</Gaumont>
+  </Item>
+  <Item>
+    <Allocine>Cinémas Pagnol - Carré Léon Gaumont</Allocine>
+    <Gaumont></Gaumont>
+  </Item>
+</Items>
+</Correspondance>
