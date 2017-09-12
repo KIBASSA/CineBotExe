@@ -35,9 +35,9 @@ Set-Location $backupFolder;
 #•drop database
 $mongoExe = $backupFolder + "\mongo.exe";
 
-& $mongoExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA@' --authenticationDatabase 'admin' cinebot --eval "db.dropDatabase()";
+& $mongoExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' cinebot --eval "db.dropDatabase()";
 
 #restore databse
 $restoreExe = $backupFolder + "\mongorestore.exe";
 
-& $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA@' --authenticationDatabase 'admin' "C:\Users\Junior\Documents\DatabaseBackup\dump";
+& $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' "C:\Users\Junior\Documents\DatabaseBackup\dump";
