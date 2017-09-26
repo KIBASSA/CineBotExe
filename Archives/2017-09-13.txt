@@ -1,7 +1,0 @@
-2017-09-13 00:00:57.0789 ##teamcity[message text='mode=cinemareleasesoftheweek']
-2017-09-13 00:00:57.0906 ##teamcity[message text='Begin process']
-2017-09-09 14:16:35.1943 ##teamcity[message text='mode=add-vod']
-2017-09-09 14:16:35.1943 ##teamcity[message text='Begin process']
-2017-09-13 13:45:15.9480 ##teamcity[message text='mode=-mode']
-2017-09-13 13:45:15.9480 ##teamcity[message text='Begin process']
-2017-09-13 13:45:23.4235 ##teamcity[message text='End process']

@@ -1,0 +1,2 @@
+2017-09-09 14:16:35.1943 ##teamcity[message text='mode=add-vod']
+2017-09-09 14:16:35.1943 ##teamcity[message text='Begin process']

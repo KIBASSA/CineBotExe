@@ -1,2 +1,0 @@
-2017-09-19 00:00:58.8658 ##teamcity[message text='mode=cinemareleasesoftheweek']
-2017-09-19 00:00:58.8658 ##teamcity[message text='Begin process']
