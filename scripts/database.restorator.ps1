@@ -40,4 +40,4 @@ $mongoExe = $backupFolder + "\mongo.exe";
 #restore databse
 $restoreExe = $backupFolder + "\mongorestore.exe";
 
-& $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' "C:\Users\Junior\Documents\DatabaseBackup\dump";
+& $restoreExe --host 'localhost:27017' -u 'adminemiko' -p 'KIBASSA13MALIBA' --authenticationDatabase 'admin' ([Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup\dump");
