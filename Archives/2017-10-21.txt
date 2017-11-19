@@ -1,0 +1,1 @@
+2017-10-21 01:58:39.6448 ##teamcity[message text='System.IndexOutOfRangeException: L||'index se trouve en dehors des limites du tableau.||r||n   à CineParser.Program.Main(String|[|] args) dans C:\Users\Junior\Source\Repos\CineBot\CineParser\Program.cs:ligne 26' status='ERROR']
