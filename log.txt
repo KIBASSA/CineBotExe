@@ -2,3 +2,5 @@
 2017-12-29 00:07:26.9598 ##teamcity[message text='Begin process']
 2017-12-29 00:08:44.8013 ##teamcity[message text='mode=recent-movies-critics-text-to-tags']
 2017-12-29 00:08:44.8013 ##teamcity[message text='Begin process']
+2017-12-29 00:09:36.9320 ##teamcity[message text='mode=refix-all-person-role-photo-on-all-movies']
+2017-12-29 00:09:36.9320 ##teamcity[message text='Begin process']
