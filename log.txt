@@ -1,6 +1,1 @@
-2017-12-29 00:07:26.9538 ##teamcity[message text='mode=recent-movies-critics-text-to-tags']
-2017-12-29 00:07:26.9598 ##teamcity[message text='Begin process']
-2017-12-29 00:08:44.8013 ##teamcity[message text='mode=recent-movies-critics-text-to-tags']
-2017-12-29 00:08:44.8013 ##teamcity[message text='Begin process']
-2017-12-29 00:09:36.9320 ##teamcity[message text='mode=refix-all-person-role-photo-on-all-movies']
-2017-12-29 00:09:36.9320 ##teamcity[message text='Begin process']
+2017-12-29 00:52:20.2579 ##teamcity[message text='System.IndexOutOfRangeException: L||'index se trouve en dehors des limites du tableau.||r||n   à CineParser.Program.Main(String|[|] args) dans C:\Users\User\source\repos\CineBot\CineParser\Program.cs:ligne 21' status='ERROR']
