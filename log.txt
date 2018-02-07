@@ -1,1 +1,4 @@
-2018-02-01 04:14:18.4512 ##teamcity[message text='System.NullReferenceException: La référence d||'objet n||'est pas définie à une instance d||'un objet.||r||n   à Common.SharedObject.Conversations.UserConversations.GetSenderId() dans C:\Users\User\source\repos\CineBot\Common\SharedObject\Conversations\UserConversations.cs:ligne 169||r||n   à CineParser.Program.Main(String|[|] args) dans C:\Users\User\source\repos\CineBot\CineParser\Program.cs:ligne 37' status='ERROR']
+2018-02-06 05:47:58.0995 ##teamcity[message text='mode=complete-note-movie-on-display - test']
+2018-02-06 05:47:58.9931 ##teamcity[message text='Begin process']
+2018-02-06 05:49:49.1051 ##teamcity[message text='mode=complete-note-movie-on-display - test']
+2018-02-06 05:49:49.4981 ##teamcity[message text='Begin process']
