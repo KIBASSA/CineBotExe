@@ -1,0 +1,2 @@
+2018-05-09 00:00:05.6322 ##teamcity[message text='Propaged']
+2018-05-09 00:00:05.6322 ##teamcity[message text='Begin propage photo for Michael Dorn...']
