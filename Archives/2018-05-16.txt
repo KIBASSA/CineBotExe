@@ -1,0 +1,2 @@
+2018-05-16 15:23:38.5274 ##teamcity[message text='mode=transfert-personid-to-all-sub-item']
+2018-05-16 15:23:38.5274 ##teamcity[message text='Begin process']
