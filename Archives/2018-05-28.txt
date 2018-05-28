@@ -1,0 +1,1 @@
+2018-05-28 00:00:01.6715 ##teamcity[message text='Impossible to find series Siren (http://www.allocine.fr//series/ficheserie_gen_cserie=20937.html)' status='ERROR']
