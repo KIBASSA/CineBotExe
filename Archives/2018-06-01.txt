@@ -1,0 +1,7 @@
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Name']
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Category']
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Nationality']
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Press Note']
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Specatator Note']
+2018-06-01 00:00:10.3468 ##teamcity[message text='pattern //div|[contains(@class,||'rating-holder||')|]//div|[@class=||'rating-item||'|]|[2|]//span|[@class=||'stareval-note||'|] does longer match with this page http://www.allocine.fr//series/ficheserie_gen_cserie=3356.html']
+2018-06-01 00:00:10.3468 ##teamcity[message text='||n Set Synopsis']

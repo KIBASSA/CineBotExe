@@ -13,20 +13,38 @@ $sessionOptions = New-Object WinSCP.SessionOptions -Property @{
 }
 
 $session = New-Object WinSCP.Session
+$index = 0;
 
-try
-{
-    # Connect
-    $session.Open($sessionOptions)
+#manualy 
+#try
+#    {
+#        while ($index -le 20){
+#            try
+#            {
+#                $index++;
+#                # Connect
+#                $session.Open($sessionOptions)
+#
+#                # Download files
+#                $session.GetFiles("/*", [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup\*").Check()
+#                break;
+#            }
+#            Catch
+#            {
+              #nothing
+#            }
+#        }
+#    }
+#    finally
+#    {
+        
+        # Disconnect, clean up
+#        $session.Dispose()
+#    }
 
-    # Download files
-    $session.GetFiles("/*", [Environment]::GetFolderPath("MyDocuments") + "\DatabaseBackup\*").Check()
-}
-finally
-{
-    # Disconnect, clean up
-    $session.Dispose()
-}
+
+
+
 
 
 
