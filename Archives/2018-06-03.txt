@@ -1,0 +1,3 @@
+2018-06-03 00:00:14.6304 ##teamcity[message text='Impossible to find series Lucifer (http://www.allocine.fr//series/ficheserie_gen_cserie=18145.html)' status='ERROR']
+2018-06-03 00:00:14.6304 ##teamcity[message text='Transfert all season actors to episode' status='WARNING']
+2018-06-03 00:00:14.6304 ##teamcity[message text='Build Photos...']
