@@ -1,1 +1,0 @@
-2018-05-29 00:00:48.3125 ##teamcity[message text='pattern //div|[contains(@class,||'pswp__scroll-wrap||')|]//div|[contains(@class,||'pswp__item||')|]|[2|]//img doesn||'t match in page' status='ERROR']
