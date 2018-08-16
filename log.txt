@@ -1,4 +1,4 @@
 2018-03-20 17:03:06.2853 ##teamcity[message text='mode=refix-all-person-role-photo-on-all-movies - test']
 2018-03-20 17:03:06.2853 ##teamcity[message text='Begin process']
-2018-03-20 17:03:09.4835 ##teamcity[message text='Go']
+2018-03-20 17:03:09.4835 ##teamcity[message text='G o']
 2018-03-20 17:03:09.4835 ##teamcity[message text='connection String : mongodb://adminemiko:KIBASSA13MALIBA@51.255.207.126:27017']
