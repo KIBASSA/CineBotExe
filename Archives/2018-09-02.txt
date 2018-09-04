@@ -1,0 +1,2 @@
+2018-09-02 02:42:37.3843 ##teamcity[message text='mode=refix-all-person-role-photo-on-all-movies']
+2018-09-02 02:42:37.3843 ##teamcity[message text='Begin process']
