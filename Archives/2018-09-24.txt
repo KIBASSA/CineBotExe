@@ -1,0 +1,2 @@
+2018-09-24 06:54:01.1270 ##teamcity[message text='mode=cinemaalwaysshowing']
+2018-09-24 06:54:01.1320 ##teamcity[message text='Begin process']
