@@ -1,0 +1,2 @@
+2018-10-25 00:00:10.2963 ##teamcity[message text='There is not productiondate']
+2018-10-25 00:00:10.2963 ##teamcity[message text='season||'s status of series Tin Star']
