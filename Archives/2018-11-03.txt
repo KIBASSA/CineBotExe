@@ -1,0 +1,2 @@
+2018-11-03 04:36:57.7791 ##teamcity[message text='mode=series']
+2018-11-03 04:36:57.7791 ##teamcity[message text='Begin process']
